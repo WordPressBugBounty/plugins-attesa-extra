@@ -1,0 +1,91 @@
+/* CSS for the PRO features admin page */
+.attesa-pro-col:before,
+.attesa-pro-col:after {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+.attesa-pro-col:after {
+	clear: both;
+}
+.about-wrap {
+	margin: 25px auto 20px;
+}
+.about-wrap h1 {
+	margin: 0;
+	text-align: center;
+}
+.about-wrap h4 {
+	text-align: center;
+}
+.about-wrap .two-col .col {
+	margin-bottom: 10px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding: 1em;
+    text-align: center;
+    background: #e5e5e5;
+    border: 1px solid #ccc;
+    margin: 1%;
+	width: 31%;
+	float: left;
+}
+.about-wrap .two-col .col.w2 {
+	width: 48%;
+}
+.attesa-pro-col > div:nth-child(3n+1) {
+    clear: both;
+}
+.about-wrap .col h3,
+.about-wrap .two-col img {
+	margin: 0;
+}
+.attesa-get-pro {
+	width: 100%;
+}
+.attesa-get-pro a {
+	text-align: center;
+    display: block;
+    padding: 1em;
+    background-color: #f06292;
+    margin: 1%;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 120%;
+    font-weight: 600;
+    text-transform: uppercase;
+	border-radius: 5px;
+	border-bottom: 3px solid rgba(0,0,0,0.2);
+    -o-transition: background-color .3s ease-in-out;
+    -moz-transition: background-color .3s ease-in-out;
+    -webkit-transition: background-color .3s ease-in-out;
+    transition: background-color .3s ease-in-out;
+}
+.attesa-get-pro a:hover,
+.attesa-get-pro a:focus,
+.attesa-get-pro a:active {
+	background-color: #bd3563;
+}
+@media all and (max-width: 850px) {
+	.about-wrap .two-col .col {
+		width: 48%;
+	}
+	.attesa-pro-col > div:nth-child(3n+1) {
+		clear: none;
+	}
+	.attesa-pro-col > div:nth-child(2n+1) {
+		clear: both;
+	}
+}
+@media all and (max-width: 600px) {
+	.about-wrap .two-col .col,
+	.about-wrap .two-col .col.w2 {
+		width: 98%;
+	}
+	.attesa-pro-col > div:nth-child(2n+1) {
+		clear: none;
+	}
+	.attesa-pro-col > div:nth-child(1n+1) {
+		clear: both;
+	}
+}

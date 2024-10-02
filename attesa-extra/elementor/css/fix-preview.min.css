@@ -1,0 +1,3 @@
+body.withOverlayMenu header.site-header:not(.menuMinor) {
+	pointer-events: none;
+}

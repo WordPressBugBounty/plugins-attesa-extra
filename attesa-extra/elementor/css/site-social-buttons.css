@@ -1,0 +1,11 @@
+/* Site Social Buttons */
+.awp-social-buttons .site-social-elementor a {
+	line-height: 1;
+	display: inline-flex;
+	-webkit-transition: background-color 0.3s, color 0.3s;
+    transition: background-color 0.3s, color 0.3s;
+}
+.awp-social-buttons .site-social-elementor a i {
+	margin: 0;
+	line-height: 1;
+}

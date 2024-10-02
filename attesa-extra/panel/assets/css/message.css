@@ -1,0 +1,50 @@
+.attesa-message {
+	overflow: hidden;
+	position: relative;
+	padding: 20px;
+}
+.attesa-message a.button-primary,
+.attesa-message a.button-secondary {
+	text-decoration: none !important;
+}
+.attesa-message a.attesa-message-close {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 10px 15px 10px 21px;
+	font-size: 13px;
+	line-height: 1.23076923;
+	text-decoration: none;
+}
+.attesa-message a.attesa-message-close:before {
+	position: absolute;
+	top: 8px;
+	left: 0;
+	-webkit-transition: all .1s ease-in-out;
+	transition: all .1s ease-in-out;
+}
+.awp-message-inner {
+	display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.awp-icon, .awp-notice {
+	display: inline-block;
+}
+.awp-icon img {
+	max-width: 50px;
+    border-radius: 5px;
+	width: 100%;
+	display: block;
+}
+.awp-notice {
+	padding: 0 20px;
+}
+.awp-notice .awp-text {
+	margin: 0;
+}

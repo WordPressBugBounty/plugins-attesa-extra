@@ -1,0 +1,10 @@
+.awp-advanced-heading-icon {
+	display: flex;
+    flex-direction: row;
+}
+.awp-advanced-heading-icon span {
+	line-height: 1;
+}
+.awp-advanced-heading-title {
+	margin: 0;
+}

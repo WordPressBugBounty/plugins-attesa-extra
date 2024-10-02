@@ -1,0 +1,17 @@
+.awp-icon {
+    color: #00a8e8;
+}
+.elementor-element-wrapper.elementor-element--promotion .awp-icon {
+	color: #a4afb7;
+}
+.awp-dialog-buttons-action {
+	display: block;
+    text-align: center;
+}
+.awp-dialog-buttons-action.elementor-button.elementor-button-success:not([disabled]) {
+    background-color: #00a8e8;
+}
+.dialog-widget.is-attesa-box button.dialog-buttons-action,
+.dialog-widget:not(.is-attesa-box) .awp-dialog-buttons-action {
+	display: none;
+}

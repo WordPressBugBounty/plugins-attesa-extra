@@ -1,0 +1,2912 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Attesa Extra\n"
+"POT-Creation-Date: 2024-08-28 00:09+0200\n"
+"PO-Revision-Date: 2024-08-28 00:09+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: attesa-extra.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: attesa-extra.php:93 panel/demos.php:513
+msgid "Get Attesa PRO Addon"
+msgstr ""
+
+#: attesa-extra.php:102 panel/classes/class-install-demos.php:33
+#: panel/classes/class-install-demos.php:34
+msgid "Install Demos"
+msgstr ""
+
+#: attesa-extra.php:132
+msgid ""
+"Attesa Extra plugin is not working because you need to activate Attesa theme."
+msgstr ""
+
+#: attesa-extra.php:133
+msgid "Activate Attesa theme"
+msgstr ""
+
+#: attesa-extra.php:161 attesa-extra.php:164 elementor/widgets.php:26
+#: elementor/widgets.php:31 panel/attesa-admin-page.php:71
+#: panel/attesa-custom-templates.php:150 panel/attesa-custom-templates.php:154
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: customizer/customizer.php:8
+msgid "Custom JS Code"
+msgstr ""
+
+#: customizer/customizer.php:25
+msgid "Custom JS code"
+msgstr ""
+
+#: customizer/customizer.php:26
+msgid "Use this section to insert custom JavaScript code in your website."
+msgstr ""
+
+#: customizer/customizer.php:39
+msgid "Add javascript in header"
+msgstr ""
+
+#: customizer/customizer.php:54
+msgid "Header Code"
+msgstr ""
+
+#: customizer/customizer.php:55
+msgid ""
+"These scripts will be printed in the <code>&lt;head&gt;</code> section. No "
+"need to add &lt;script&gt; tag."
+msgstr ""
+
+#: customizer/customizer.php:70
+msgid "Add javascript in footer"
+msgstr ""
+
+#: customizer/customizer.php:85
+msgid "Footer Code"
+msgstr ""
+
+#: customizer/customizer.php:86
+msgid ""
+"These scripts will be printed above the <code>&lt;/body&gt;</code> tag. No "
+"need to add &lt;script&gt; tag."
+msgstr ""
+
+#: customizer/customizer.php:101
+msgid "Choose the footer"
+msgstr ""
+
+#: customizer/customizer.php:107
+msgid "Default with widgets"
+msgstr ""
+
+#: customizer/customizer.php:108 customizer/customizer.php:132
+msgid "Custom via Attesa Templates"
+msgstr ""
+
+#: customizer/customizer.php:119
+msgid "Choose the template for the footer"
+msgstr ""
+
+#: customizer/customizer.php:129
+msgid "Compat"
+msgstr ""
+
+#: customizer/customizer.php:130
+msgid "Featured Title"
+msgstr ""
+
+#: customizer/customizer.php:131
+msgid "Menu Popup"
+msgstr ""
+
+#: customizer/customizer.php:142
+msgid "Choose the template for the header"
+msgstr ""
+
+#: customizer/functions.php:50 elementor/widgets/navigation-menu.php:333
+msgid "-- Select --"
+msgstr ""
+
+#. translators: %1$s: create new custom template link
+#: customizer/functions.php:146 customizer/functions.php:587
+#, php-format
+msgid ""
+"Choose a template to display. If you haven't created a custom template yet, "
+"<a href=\"%1$s\">get started here</a>."
+msgstr ""
+
+#: customizer/functions.php:167 elementor/widgets/navigation-menu.php:51
+msgid "Menu"
+msgstr ""
+
+#: customizer/functions.php:271 customizer/functions.php:409
+msgid "Close menu"
+msgstr ""
+
+#: elementor/compatibility/widgets/heading-typewriter.php:38
+msgid "Heading typewriter text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:74
+msgid "Alert Title"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:79
+msgid "Alert Content"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:90
+msgid "Heading typewriter before text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:95
+msgid "Heading typewriter after text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:107
+#: elementor/widgets/navigation-menu.php:49
+msgid "Menu Mobile Text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:112
+#: elementor/widgets/navigation-menu.php:59
+msgid "Close Menu Mobile Text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:123
+msgid "Double button first text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:128
+msgid "Double button first link"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:133
+msgid "Double button second text"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:138
+msgid "Double button second link"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:149
+msgid "Advanced heading first title"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:154
+msgid "Advanced heading second title"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:159
+msgid "Advanced heading subtitle"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:170
+msgid "Flip box front side title"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:175
+msgid "Flip box front side content"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:180
+msgid "Flip box back side title"
+msgstr ""
+
+#: elementor/compatibility/wpml_compatibility.php:185
+msgid "Flip box back side content"
+msgstr ""
+
+#: elementor/widgets.php:98
+msgid "Attesa Theme Addons"
+msgstr ""
+
+#: elementor/widgets.php:150
+msgid "Upgrade to Attesa PRO"
+msgstr ""
+
+#: elementor/widgets.php:166
+msgid "Scroll to next section"
+msgstr ""
+
+#: elementor/widgets.php:172
+msgid "Tilt Effect"
+msgstr ""
+
+#: elementor/widgets.php:178
+msgid "Posts Carousel"
+msgstr ""
+
+#: elementor/widgets.php:184
+msgid "Pricing Table"
+msgstr ""
+
+#: elementor/widgets.php:190
+msgid "Image Hotspots"
+msgstr ""
+
+#: elementor/widgets.php:196
+msgid "Onepage Navigation"
+msgstr ""
+
+#: elementor/widgets.php:202
+msgid "Stylize every word"
+msgstr ""
+
+#: elementor/widgets.php:208
+msgid "Price List"
+msgstr ""
+
+#: elementor/widgets.php:214
+msgid "Filterable Gallery"
+msgstr ""
+
+#: elementor/widgets.php:220
+msgid "Page Scroll Progress"
+msgstr ""
+
+#: elementor/widgets.php:226
+msgid "Image Compare"
+msgstr ""
+
+#: elementor/widgets.php:232
+msgid "Offcanvas"
+msgstr ""
+
+#: elementor/widgets.php:238
+msgid "Step by step"
+msgstr ""
+
+#: elementor/widgets.php:244
+msgid "Ajax Search"
+msgstr ""
+
+#: elementor/widgets.php:250
+msgid "Content Timeline"
+msgstr ""
+
+#: elementor/widgets.php:256
+msgid "Content behind background"
+msgstr ""
+
+#: elementor/widgets.php:262
+msgid "Switch"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:20
+#: elementor/widgets/advanced-heading.php:36
+msgid "Advanced Heading"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:43
+msgid "First part title"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:45
+msgid "Attesa"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:53
+msgid "Second part title"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:55
+msgid "Theme"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:63
+#: elementor/widgets/heading-typewriter.php:172
+#: elementor/widgets/posts-carousel.php:282
+msgid "HTML Tag"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:67 elementor/widgets/flip-box.php:416
+#: elementor/widgets/flip-box.php:663
+#: elementor/widgets/heading-typewriter.php:176
+msgid "H1"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:68 elementor/widgets/flip-box.php:417
+#: elementor/widgets/flip-box.php:664
+#: elementor/widgets/heading-typewriter.php:177
+#: elementor/widgets/posts-carousel.php:286
+msgid "H2"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:69 elementor/widgets/flip-box.php:418
+#: elementor/widgets/flip-box.php:665
+#: elementor/widgets/heading-typewriter.php:178
+#: elementor/widgets/posts-carousel.php:287
+msgid "H3"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:70 elementor/widgets/flip-box.php:419
+#: elementor/widgets/flip-box.php:666
+#: elementor/widgets/heading-typewriter.php:179
+#: elementor/widgets/posts-carousel.php:288
+msgid "H4"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:71 elementor/widgets/flip-box.php:420
+#: elementor/widgets/flip-box.php:667
+#: elementor/widgets/heading-typewriter.php:180
+#: elementor/widgets/posts-carousel.php:289
+msgid "H5"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:72 elementor/widgets/flip-box.php:421
+#: elementor/widgets/flip-box.php:668
+#: elementor/widgets/heading-typewriter.php:181
+#: elementor/widgets/posts-carousel.php:290
+msgid "H6"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:73 elementor/widgets/flip-box.php:422
+#: elementor/widgets/flip-box.php:669
+#: elementor/widgets/heading-typewriter.php:182
+#: elementor/widgets/posts-carousel.php:291
+msgid "div"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:74 elementor/widgets/flip-box.php:423
+#: elementor/widgets/flip-box.php:670
+#: elementor/widgets/heading-typewriter.php:183
+#: elementor/widgets/posts-carousel.php:292
+msgid "span"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:75
+#: elementor/widgets/heading-typewriter.php:184
+#: elementor/widgets/posts-carousel.php:293
+msgid "p"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:83
+msgid "Show icon"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:92
+#: elementor/widgets/alert-message.php:45 elementor/widgets/divider.php:158
+#: elementor/widgets/double-button.php:68
+#: elementor/widgets/double-button.php:212
+#: elementor/widgets/double-button.php:343
+#: elementor/widgets/double-button.php:352 elementor/widgets/flip-box.php:148
+#: elementor/widgets/flip-box.php:203
+msgid "Icon"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:107
+msgid "Subtitle"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:119
+msgid "Box style"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:127
+msgid "Box background"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:139
+msgid "Box padding"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:175
+#: elementor/widgets/advanced-heading.php:455
+#: elementor/widgets/alert-message.php:171 elementor/widgets/flip-box.php:288
+#: elementor/widgets/posts-carousel.php:452
+msgid "Border Radius"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:197
+msgid "Title style"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:205
+#: elementor/widgets/advanced-heading.php:314
+#: elementor/widgets/advanced-heading.php:477 elementor/widgets/divider.php:92
+#: elementor/widgets/double-button.php:451 elementor/widgets/flip-box.php:507
+#: elementor/widgets/flip-box.php:754
+#: elementor/widgets/heading-typewriter.php:192
+#: elementor/widgets/navigation-menu.php:69
+#: elementor/widgets/navigation-menu.php:281
+#: elementor/widgets/posts-carousel.php:500 elementor/widgets/site-logo.php:49
+#: elementor/widgets/site-social-buttons.php:52
+msgid "Alignment"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:209
+#: elementor/widgets/advanced-heading.php:318
+#: elementor/widgets/advanced-heading.php:481 elementor/widgets/divider.php:96
+#: elementor/widgets/double-button.php:455 elementor/widgets/flip-box.php:511
+#: elementor/widgets/flip-box.php:758
+#: elementor/widgets/heading-typewriter.php:196
+#: elementor/widgets/navigation-menu.php:73
+#: elementor/widgets/navigation-menu.php:285
+#: elementor/widgets/posts-carousel.php:504 elementor/widgets/site-logo.php:53
+#: elementor/widgets/site-social-buttons.php:56
+msgid "Left"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:213
+#: elementor/widgets/advanced-heading.php:322
+#: elementor/widgets/advanced-heading.php:485 elementor/widgets/divider.php:97
+#: elementor/widgets/double-button.php:459 elementor/widgets/flip-box.php:104
+#: elementor/widgets/flip-box.php:515 elementor/widgets/flip-box.php:762
+#: elementor/widgets/heading-typewriter.php:200
+#: elementor/widgets/navigation-menu.php:77
+#: elementor/widgets/navigation-menu.php:289
+#: elementor/widgets/posts-carousel.php:508 elementor/widgets/site-logo.php:57
+#: elementor/widgets/site-social-buttons.php:60
+msgid "Center"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:217
+#: elementor/widgets/advanced-heading.php:326
+#: elementor/widgets/advanced-heading.php:489 elementor/widgets/divider.php:98
+#: elementor/widgets/double-button.php:463 elementor/widgets/flip-box.php:519
+#: elementor/widgets/flip-box.php:766
+#: elementor/widgets/heading-typewriter.php:204
+#: elementor/widgets/navigation-menu.php:81
+#: elementor/widgets/navigation-menu.php:293
+#: elementor/widgets/posts-carousel.php:512 elementor/widgets/site-logo.php:61
+#: elementor/widgets/site-social-buttons.php:64
+msgid "Right"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:221
+#: elementor/widgets/advanced-heading.php:493
+#: elementor/widgets/flip-box.php:523 elementor/widgets/flip-box.php:770
+#: elementor/widgets/heading-typewriter.php:208
+#: elementor/widgets/posts-carousel.php:516
+msgid "Justify"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:236
+msgid "First part title typography"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:246
+msgid "First part title color"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:258
+msgid "Second part title typography"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:268
+msgid "Second part title color"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:280
+#: elementor/widgets/advanced-heading.php:434
+#: elementor/widgets/advanced-heading.php:508 elementor/widgets/divider.php:137
+msgid "Gap"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:303
+msgid "Icon style"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:341
+#: elementor/widgets/alert-message.php:320
+#: elementor/widgets/double-button.php:367 elementor/widgets/flip-box.php:327
+#: elementor/widgets/flip-box.php:574
+msgid "Icon size"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:360
+msgid "Icon padding"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:396
+msgid "Icon position"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:400
+#: elementor/widgets/flip-box.php:103
+msgid "Top"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:401
+msgid "Middle"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:402
+#: elementor/widgets/flip-box.php:105
+msgid "Bottom"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:410
+msgid "Icon color"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:422
+msgid "Icon background"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:469
+msgid "Subtitle style"
+msgstr ""
+
+#: elementor/widgets/advanced-heading.php:529
+msgid "Subtitle color"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:19
+#: elementor/widgets/alert-message.php:38
+msgid "Alert Message"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:57 elementor/widgets/flip-box.php:163
+#: elementor/widgets/flip-box.php:166 elementor/widgets/flip-box.php:218
+#: elementor/widgets/flip-box.php:221
+#: elementor/widgets/heading-typewriter.php:66
+msgid "Title"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:59
+msgid "This is Alert Message"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:67 elementor/widgets/flip-box.php:176
+#: elementor/widgets/flip-box.php:231
+msgid "Content"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:69
+msgid ""
+"Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel."
+msgstr ""
+
+#: elementor/widgets/alert-message.php:77
+msgid "Dismiss Button"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:79
+#: elementor/widgets/double-button.php:339
+#: elementor/widgets/posts-carousel.php:136
+#: elementor/widgets/posts-carousel.php:152
+#: elementor/widgets/posts-carousel.php:168
+msgid "Show"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:80
+#: elementor/widgets/posts-carousel.php:137
+#: elementor/widgets/posts-carousel.php:153
+#: elementor/widgets/posts-carousel.php:169
+msgid "Hide"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:89 elementor/widgets/divider.php:209
+#: elementor/widgets/heading-typewriter.php:223
+#: elementor/widgets/posts-carousel.php:242
+msgid "View"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:102
+msgid "Alert style"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:110
+msgid "Background Color"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:122
+#: elementor/widgets/heading-typewriter.php:263
+#: elementor/widgets/heading-typewriter.php:285
+#: elementor/widgets/heading-typewriter.php:307
+#: elementor/widgets/navigation-menu.php:163
+msgid "Text Color"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:134
+#: elementor/widgets/double-button.php:478
+#: elementor/widgets/double-button.php:583 elementor/widgets/flip-box.php:251
+msgid "Padding"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:208
+msgid "Border Style"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:212
+msgid "None"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:213 elementor/widgets/divider.php:44
+msgid "Solid"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:214 elementor/widgets/divider.php:45
+msgid "Double"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:215 elementor/widgets/divider.php:46
+msgid "Dotted"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:216 elementor/widgets/divider.php:47
+msgid "Dashed"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:227
+msgid "Border Width"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:251
+msgid "Border Color"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:270 elementor/widgets/flip-box.php:372
+#: elementor/widgets/flip-box.php:619
+msgid "Title Typography"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:291 elementor/widgets/flip-box.php:441
+#: elementor/widgets/flip-box.php:688
+msgid "Content Typography"
+msgstr ""
+
+#: elementor/widgets/alert-message.php:312
+msgid "Icon Style"
+msgstr ""
+
+#: elementor/widgets/divider.php:18 elementor/widgets/divider.php:33
+msgid "Icon Divider"
+msgstr ""
+
+#: elementor/widgets/divider.php:40
+msgid "Style"
+msgstr ""
+
+#: elementor/widgets/divider.php:58
+msgid "Weight"
+msgstr ""
+
+#: elementor/widgets/divider.php:79 elementor/widgets/double-button.php:118
+#: elementor/widgets/double-button.php:151
+#: elementor/widgets/double-button.php:262
+#: elementor/widgets/double-button.php:295
+#: elementor/widgets/double-button.php:416
+#: elementor/widgets/posts-carousel.php:262
+#: elementor/widgets/posts-carousel.php:312
+#: elementor/widgets/posts-carousel.php:343
+#: elementor/widgets/posts-carousel.php:374
+msgid "Color"
+msgstr ""
+
+#: elementor/widgets/divider.php:106 elementor/widgets/flip-box.php:49
+msgid "Width"
+msgstr ""
+
+#: elementor/widgets/divider.php:167
+msgid "Icon Size"
+msgstr ""
+
+#: elementor/widgets/divider.php:188
+msgid "Icon Padding"
+msgstr ""
+
+#: elementor/widgets/double-button.php:21
+msgid "Double Button"
+msgstr ""
+
+#: elementor/widgets/double-button.php:37
+msgid "First Button"
+msgstr ""
+
+#: elementor/widgets/double-button.php:44
+#: elementor/widgets/double-button.php:188
+msgid "Button Text"
+msgstr ""
+
+#: elementor/widgets/double-button.php:47
+msgid "First"
+msgstr ""
+
+#: elementor/widgets/double-button.php:57
+#: elementor/widgets/double-button.php:201
+msgid "Link"
+msgstr ""
+
+#: elementor/widgets/double-button.php:76
+#: elementor/widgets/double-button.php:220
+msgid "Icon Position"
+msgstr ""
+
+#: elementor/widgets/double-button.php:80
+#: elementor/widgets/double-button.php:224
+msgid "Before"
+msgstr ""
+
+#: elementor/widgets/double-button.php:81
+#: elementor/widgets/double-button.php:225
+msgid "After"
+msgstr ""
+
+#: elementor/widgets/double-button.php:89
+#: elementor/widgets/double-button.php:233
+msgid "Icon Spacing"
+msgstr ""
+
+#: elementor/widgets/double-button.php:111
+#: elementor/widgets/double-button.php:255
+msgid "Normal"
+msgstr ""
+
+#: elementor/widgets/double-button.php:130
+#: elementor/widgets/double-button.php:163
+#: elementor/widgets/double-button.php:274
+#: elementor/widgets/double-button.php:307
+#: elementor/widgets/double-button.php:428 elementor/widgets/flip-box.php:539
+#: elementor/widgets/flip-box.php:786
+msgid "Background"
+msgstr ""
+
+#: elementor/widgets/double-button.php:144
+#: elementor/widgets/double-button.php:288
+msgid "Hover"
+msgstr ""
+
+#: elementor/widgets/double-button.php:181
+msgid "Second Button"
+msgstr ""
+
+#: elementor/widgets/double-button.php:191
+#: metabox/butterbean/inc/controls/class-control-datetime.php:136
+msgid "Second"
+msgstr ""
+
+#: elementor/widgets/double-button.php:323
+msgid "Divider"
+msgstr ""
+
+#: elementor/widgets/double-button.php:330
+msgid "Show divider"
+msgstr ""
+
+#: elementor/widgets/double-button.php:344
+#: elementor/widgets/double-button.php:389
+msgid "Text"
+msgstr ""
+
+#: elementor/widgets/double-button.php:442
+msgid "Box Style"
+msgstr ""
+
+#: elementor/widgets/double-button.php:515
+msgid "Buttons Border Radius"
+msgstr ""
+
+#: elementor/widgets/double-button.php:571
+msgid "Divider Style"
+msgstr ""
+
+#: elementor/widgets/double-button.php:619
+msgid "Divider Border Radius"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:22 elementor/widgets/flip-box.php:42
+#: elementor/widgets/flip-box.php:242
+msgid "Flip Box"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:76
+msgid "Height"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:99
+msgid "Content Position"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:117
+msgid "Flip"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:121
+msgid "Horizontal"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:122
+msgid "Vertical"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:132 elementor/widgets/flip-box.php:303
+msgid "Front side"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:139 elementor/widgets/flip-box.php:194
+msgid "Use icon"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:178 elementor/widgets/flip-box.php:233
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non leo "
+"pretium, tempus tellus et, pellentesque ligula. Suspendisse potenti."
+msgstr ""
+
+#: elementor/widgets/flip-box.php:187 elementor/widgets/flip-box.php:550
+msgid "Back side"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:312 elementor/widgets/flip-box.php:559
+#: elementor/widgets/site-social-buttons.php:182
+msgid "Icon Color"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:347 elementor/widgets/flip-box.php:594
+msgid "Title margin"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:391 elementor/widgets/flip-box.php:638
+msgid "Title Color"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:412 elementor/widgets/flip-box.php:659
+msgid "Title Tag"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:460 elementor/widgets/flip-box.php:707
+msgid "Content margin"
+msgstr ""
+
+#: elementor/widgets/flip-box.php:485 elementor/widgets/flip-box.php:732
+msgid "Content Color"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:20
+msgid "Heading Typewriter"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:43
+msgid "Titles Typewriter"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:51
+msgid "Text Before"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:54
+msgid "Text before"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:69
+#: elementor/widgets/heading-typewriter.php:70
+msgid "Heading Text"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:85
+msgid "Heading Text #1"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:88
+msgid "Heading Text #2"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:98
+msgid "Text After"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:101
+msgid "Text after"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:112
+msgid "Type Speed"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:124
+msgid "Start Delay"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:136
+msgid "Back Speed"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:148
+msgid "Back Delay"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:160
+msgid "Loop writing effect"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:163
+#: elementor/widgets/posts-carousel.php:59
+#: elementor/widgets/posts-carousel.php:111
+#: elementor/widgets/posts-carousel.php:123
+#: elementor/widgets/posts-carousel.php:183
+#: elementor/widgets/posts-carousel.php:195
+msgid "Off"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:164
+#: elementor/widgets/posts-carousel.php:58
+#: elementor/widgets/posts-carousel.php:110
+#: elementor/widgets/posts-carousel.php:122
+#: elementor/widgets/posts-carousel.php:182
+#: elementor/widgets/posts-carousel.php:194
+msgid "On"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:235
+msgid "Typohrapy text"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:255
+msgid "Typewriter text"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:277
+msgid "Before text"
+msgstr ""
+
+#: elementor/widgets/heading-typewriter.php:299
+msgid "After text"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:18
+msgid "Navigation Menus"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:32
+msgid "Navigations menus"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:39
+msgid "Select Menu"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:61
+msgid "Close Menu"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:96
+msgid "Items Padding"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:143
+msgid "Items Style"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:151
+msgid "Menu Background Color Mobile"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:176
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:188
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:200
+msgid "Menu Mobile Border Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:214
+msgid "Featured button Style (if used)"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:222
+msgid "Featured Button Text Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:235
+msgid "Featured Button Background Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:249
+msgid "Close menu mobile button Style"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:257
+msgid "Close Menu Button Text Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:269
+msgid "Close Menu Button Background Color"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:310
+msgid "Hamburger Menu button Style (if used)"
+msgstr ""
+
+#: elementor/widgets/navigation-menu.php:318
+msgid "Hamburger Menu Color"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:20
+msgid "Blog Posts Grid"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:39
+msgid "Query"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:47
+msgid "Number of posts"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:56
+msgid "Ignore sticky posts"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:68
+msgid "Columns"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:72
+msgid "1"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:73
+msgid "2"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:74
+msgid "3"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:75
+msgid "4"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:76
+msgid "5"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:84
+msgid "Order by"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:88
+msgid "Date"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:89
+msgid "Random"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:90
+msgid "Number of comments"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:98
+msgid "Categories"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:108
+msgid "Show featured images (if exists)"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:120
+msgid "Show Meta"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:132
+msgid "Author Meta"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:148
+msgid "Date Meta"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:164
+msgid "Comments Meta"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:180
+msgid "Show Categories"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:192
+msgid "Show Excerpt"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:204
+msgid "Excerpt length"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:225
+msgid "Image Size"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:229
+msgid "Medium Large (768 x infinite height)"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:230
+msgid "Large (1024 x 1024px)"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:231
+msgid "Medium Small (500 x 270px)"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:232
+msgid "Thumbnail (150 x 150px)"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:233
+msgid "Original image size"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:255
+msgid "Post title"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:305
+msgid "Post content"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:336
+msgid "Categories content"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:367
+msgid "Meta content"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:398
+msgid "Post spacing"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:405
+msgid "Spacing"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:445
+msgid "Images Border Radius"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:492
+msgid "Text Alignment"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:599
+msgid "0 Comments"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:599
+msgid "1 Comment"
+msgstr ""
+
+#: elementor/widgets/posts-carousel.php:599
+msgid "% Comments"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:18 elementor/widgets/site-logo.php:32
+msgid "Site Logo"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:39
+#: elementor/widgets/site-social-buttons.php:42
+msgid "Note"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:41
+msgid ""
+"You can customize your settings (choose the logo, change the site title or "
+"tagline) from your WordPress Dashboard in \"Appearance-> Customize-> Site "
+"Identity\"."
+msgstr ""
+
+#: elementor/widgets/site-logo.php:77
+msgid "Logo Max Height"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:100
+msgid "Site title style (if used)"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:108
+msgid "Site Title Text Color"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:131
+msgid "Site tagline style (if used)"
+msgstr ""
+
+#: elementor/widgets/site-logo.php:139
+msgid "Site Tagline Text Color"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:18
+#: elementor/widgets/site-social-buttons.php:35
+msgid "Site Social Buttons"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:44
+msgid ""
+"You can insert your social media links from your WordPress Dashboard under "
+"\"Appearance-> Customize-> Attesa Theme Options-> Social Buttons\"."
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:79
+#: elementor/widgets/site-social-buttons.php:115
+msgid "Icons Padding"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:153
+msgid "Social Buttons"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:161
+msgid "Icons Size"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:195
+msgid "Icon Background Color"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:206
+msgid "Icon Color Hover"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:219
+msgid "Icon Background Color Hover"
+msgstr ""
+
+#: elementor/widgets/site-social-buttons.php:231
+msgid "Icons Border Radius"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-datetime.php:79
+msgid "Year"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-datetime.php:88
+msgid "Month"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-datetime.php:112
+msgid "Day"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-datetime.php:120
+msgid "Hour"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-datetime.php:128
+msgid "Minute"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-image.php:66
+msgid "Add image"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-image.php:67
+msgid "Set as image"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-image.php:68
+msgid "Choose image"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-image.php:69
+msgid "Change image"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-image.php:70
+msgid "Remove image"
+msgstr ""
+
+#: metabox/butterbean/inc/controls/class-control-image.php:71
+msgid "No image selected"
+msgstr ""
+
+#: metabox/butterbean/tmpl/control-datetime.php:46
+#, php-format
+msgid "%1$s %2$s, %3$s @ %4$s:%5$s:%6$s"
+msgstr ""
+
+#: metabox/butterbean/tmpl/control-datetime.php:52
+#, php-format
+msgid "%1$s %2$s, %3$s"
+msgstr ""
+
+#: metabox/metabox.php:104
+msgid "Attesa Extra Theme Options"
+msgstr ""
+
+#: metabox/metabox.php:117
+msgid "General Settings"
+msgstr ""
+
+#: metabox/metabox.php:124
+msgid "Widgets Settings"
+msgstr ""
+
+#: metabox/metabox.php:132
+msgid "Post Settings"
+msgstr ""
+
+#: metabox/metabox.php:141
+msgid "Page Settings"
+msgstr ""
+
+#: metabox/metabox.php:149
+msgid "Header Settings"
+msgstr ""
+
+#: metabox/metabox.php:156
+msgid "Colors Settings"
+msgstr ""
+
+#: metabox/metabox.php:163
+msgid "Shortcodes"
+msgstr ""
+
+#: metabox/metabox.php:182
+msgid "Use custom settings for this post"
+msgstr ""
+
+#: metabox/metabox.php:199 metabox/metabox.php:349
+msgid "Featured image style (if set)"
+msgstr ""
+
+#: metabox/metabox.php:201 metabox/metabox.php:351
+msgid "Featured image inside the content"
+msgstr ""
+
+#: metabox/metabox.php:202 metabox/metabox.php:352
+msgid "Big Featured image in the header"
+msgstr ""
+
+#: metabox/metabox.php:219 metabox/metabox.php:369
+msgid "Overlay featured image to the main menu"
+msgstr ""
+
+#: metabox/metabox.php:236 metabox/metabox.php:386
+msgid "Featured image fixed inside the box"
+msgstr ""
+
+#: metabox/metabox.php:253 metabox/metabox.php:403
+msgid "Featured image height (in pixel)"
+msgstr ""
+
+#: metabox/metabox.php:270 metabox/metabox.php:420
+msgid "Box opacity background color"
+msgstr ""
+
+#: metabox/metabox.php:287 metabox/metabox.php:437 metabox/metabox.php:532
+msgid "Text color for the overlay header"
+msgstr ""
+
+#: metabox/metabox.php:304 metabox/metabox.php:454
+msgid "Title position"
+msgstr ""
+
+#: metabox/metabox.php:306 metabox/metabox.php:456
+msgid "Inside the content"
+msgstr ""
+
+#: metabox/metabox.php:307 metabox/metabox.php:457
+msgid "Inside the header"
+msgstr ""
+
+#: metabox/metabox.php:332
+msgid "Use custom settings for this page"
+msgstr ""
+
+#: metabox/metabox.php:480
+msgid "Use custom general settings"
+msgstr ""
+
+#: metabox/metabox.php:497
+#, no-php-format
+msgid "Set this page 100% full width"
+msgstr ""
+
+#: metabox/metabox.php:498
+msgid "Useful if page is made entirely with page builders"
+msgstr ""
+
+#: metabox/metabox.php:515
+msgid "Overlay content on the header"
+msgstr ""
+
+#: metabox/metabox.php:549
+msgid "Background color for the overlay header"
+msgstr ""
+
+#: metabox/metabox.php:566
+msgid "Website Structure"
+msgstr ""
+
+#: metabox/metabox.php:568
+msgid "Wide"
+msgstr ""
+
+#: metabox/metabox.php:569 metabox/metabox.php:825 metabox/metabox.php:914
+msgid "Boxed"
+msgstr ""
+
+#: metabox/metabox.php:587
+msgid "Max width for boxed website (in pixel)"
+msgstr ""
+
+#: metabox/metabox.php:604
+msgid "Border radius for elements (in pixel)"
+msgstr ""
+
+#: metabox/metabox.php:621
+msgid "Max width for site content (in pixel)"
+msgstr ""
+
+#: metabox/metabox.php:638
+msgid "Width for content side with sidebar (in percentage)"
+msgstr ""
+
+#: metabox/metabox.php:655
+msgid "Width for content side without sidebar (in percentage)"
+msgstr ""
+
+#: metabox/metabox.php:676 metabox/metabox.php:678
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: metabox/metabox.php:679
+msgid "Hide breadcrumbs"
+msgstr ""
+
+#: metabox/metabox.php:700
+msgid "Classic sidebar display"
+msgstr ""
+
+#: metabox/metabox.php:702 metabox/metabox.php:723 metabox/metabox.php:744
+#: metabox/metabox.php:765 metabox/metabox.php:786 metabox/metabox.php:824
+#: metabox/metabox.php:913 metabox/metabox.php:934
+msgid "Default from theme options"
+msgstr ""
+
+#: metabox/metabox.php:703
+msgid "Hide classic sidebar"
+msgstr ""
+
+#: metabox/metabox.php:704
+msgid "Show classic sidebar"
+msgstr ""
+
+#: metabox/metabox.php:721
+msgid "Choose classic sidebar position"
+msgstr ""
+
+#: metabox/metabox.php:724
+msgid "Classic sidebar left"
+msgstr ""
+
+#: metabox/metabox.php:725
+msgid "Classic sidebar right"
+msgstr ""
+
+#: metabox/metabox.php:742
+msgid "Push sidebar display"
+msgstr ""
+
+#: metabox/metabox.php:745
+msgid "Hide push sidebar"
+msgstr ""
+
+#: metabox/metabox.php:746
+msgid "Show push sidebar"
+msgstr ""
+
+#: metabox/metabox.php:763
+msgid "Choose push sidebar position"
+msgstr ""
+
+#: metabox/metabox.php:766
+msgid "Push sidebar left"
+msgstr ""
+
+#: metabox/metabox.php:767
+msgid "Push sidebar right"
+msgstr ""
+
+#: metabox/metabox.php:784
+msgid "Footer widgets display"
+msgstr ""
+
+#: metabox/metabox.php:787
+msgid "Hide footer widgets"
+msgstr ""
+
+#: metabox/metabox.php:788
+msgid "Show footer widgets"
+msgstr ""
+
+#: metabox/metabox.php:805
+msgid "Use header custom settings"
+msgstr ""
+
+#: metabox/metabox.php:822
+msgid "Header style"
+msgstr ""
+
+#: metabox/metabox.php:826 metabox/metabox.php:915
+msgid "Full Width"
+msgstr ""
+
+#: metabox/metabox.php:843
+msgid "Sticky header when scroll down"
+msgstr ""
+
+#: metabox/metabox.php:860
+msgid "Sticky header also on tablet/smartphone"
+msgstr ""
+
+#: metabox/metabox.php:877
+msgid "Show top navigation bar"
+msgstr ""
+
+#: metabox/metabox.php:894
+msgid "Show top bar also on tablet/smartphone"
+msgstr ""
+
+#: metabox/metabox.php:911
+msgid "Top bar style"
+msgstr ""
+
+#: metabox/metabox.php:932
+msgid "Top bar scroll"
+msgstr ""
+
+#: metabox/metabox.php:935
+msgid "Hide when scroll down"
+msgstr ""
+
+#: metabox/metabox.php:936
+msgid "Show when scroll down"
+msgstr ""
+
+#: metabox/metabox.php:953
+msgid "Use a custom logo for this post/page"
+msgstr ""
+
+#: metabox/metabox.php:954 metabox/metabox.php:971
+msgid "Recommended size 220x60px"
+msgstr ""
+
+#: metabox/metabox.php:970
+msgid "Use a custom logo on scroll for this post/page"
+msgstr ""
+
+#: metabox/metabox.php:987
+msgid "Use custom colors for this page"
+msgstr ""
+
+#: metabox/metabox.php:1004
+msgid "Edit general colors"
+msgstr ""
+
+#: metabox/metabox.php:1021
+msgid "Outer background color"
+msgstr ""
+
+#: metabox/metabox.php:1038
+msgid "General background color"
+msgstr ""
+
+#: metabox/metabox.php:1055
+msgid "Alternative background color"
+msgstr ""
+
+#: metabox/metabox.php:1072
+msgid "General text color"
+msgstr ""
+
+#: metabox/metabox.php:1089
+msgid "Content text color"
+msgstr ""
+
+#: metabox/metabox.php:1106
+msgid "General link color"
+msgstr ""
+
+#: metabox/metabox.php:1123
+msgid "General border color"
+msgstr ""
+
+#: metabox/metabox.php:1140
+msgid "Edit top bar colors"
+msgstr ""
+
+#: metabox/metabox.php:1157
+msgid "Top bar background color"
+msgstr ""
+
+#: metabox/metabox.php:1174
+msgid "Top bar text color"
+msgstr ""
+
+#: metabox/metabox.php:1191
+msgid "Top bar border color"
+msgstr ""
+
+#: metabox/metabox.php:1208
+msgid "Edit header colors"
+msgstr ""
+
+#: metabox/metabox.php:1225
+msgid "Header background color"
+msgstr ""
+
+#: metabox/metabox.php:1242
+msgid "Header link color"
+msgstr ""
+
+#: metabox/metabox.php:1259
+msgid "Header text color"
+msgstr ""
+
+#: metabox/metabox.php:1276
+msgid "Edit classic sidebar colors"
+msgstr ""
+
+#: metabox/metabox.php:1293
+msgid "Classic sidebar background color"
+msgstr ""
+
+#: metabox/metabox.php:1310
+msgid "Classic sidebar text color"
+msgstr ""
+
+#: metabox/metabox.php:1327
+msgid "Classic sidebar link color"
+msgstr ""
+
+#: metabox/metabox.php:1344
+msgid "Classic sidebar border color"
+msgstr ""
+
+#: metabox/metabox.php:1361
+msgid "Edit push sidebar colors"
+msgstr ""
+
+#: metabox/metabox.php:1378
+msgid "Push sidebar background color"
+msgstr ""
+
+#: metabox/metabox.php:1395
+msgid "Push sidebar text color"
+msgstr ""
+
+#: metabox/metabox.php:1412
+msgid "Push sidebar link color"
+msgstr ""
+
+#: metabox/metabox.php:1429
+msgid "Push sidebar border color"
+msgstr ""
+
+#: metabox/metabox.php:1446
+msgid "Edit footer colors"
+msgstr ""
+
+#: metabox/metabox.php:1463
+msgid "Footer background color"
+msgstr ""
+
+#: metabox/metabox.php:1480
+msgid "Footer text color"
+msgstr ""
+
+#: metabox/metabox.php:1497
+msgid "Footer link color"
+msgstr ""
+
+#: metabox/metabox.php:1514
+msgid "Footer border color"
+msgstr ""
+
+#: metabox/metabox.php:1531
+msgid "Sub Footer background color"
+msgstr ""
+
+#: metabox/metabox.php:1548
+msgid "Sub Footer text color"
+msgstr ""
+
+#: metabox/metabox.php:1565
+msgid "Sub Footer link color"
+msgstr ""
+
+#: metabox/metabox.php:1582
+msgid "Shortcode before site content"
+msgstr ""
+
+#: metabox/metabox.php:1598
+msgid "Shortcode after site content"
+msgstr ""
+
+#: metabox/metabox.php:1614
+msgid "Shortcode before page content"
+msgstr ""
+
+#: metabox/metabox.php:1630
+msgid "Shortcode after page content"
+msgstr ""
+
+#: metabox/metabox.php:1646
+msgid "Shortcode before classic sidebar"
+msgstr ""
+
+#: metabox/metabox.php:1662
+msgid "Shortcode after classic sidebar"
+msgstr ""
+
+#: metabox/metabox.php:1678
+msgid "Shortcode before push sidebar"
+msgstr ""
+
+#: metabox/metabox.php:1694
+msgid "Shortcode after push sidebar"
+msgstr ""
+
+#: metabox/metabox.php:1710
+msgid "Shortcode before footer widgets"
+msgstr ""
+
+#: metabox/metabox.php:1726
+msgid "Shortcode after footer widgets"
+msgstr ""
+
+#: metabox/shortcodes.php:64
+msgid "Please enter a valid URL to generate the QR code"
+msgstr ""
+
+#: panel/attesa-admin-page.php:30 panel/attesa-admin-page.php:319
+msgid "Attesa Theme"
+msgstr ""
+
+#: panel/attesa-admin-page.php:68
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: panel/attesa-admin-page.php:83
+msgid "Dismiss"
+msgstr ""
+
+#: panel/attesa-admin-page.php:89
+msgid "Welcome to Attesa WordPress Theme"
+msgstr ""
+
+#. translators: 1: start option panel link, 2: end option panel link
+#: panel/attesa-admin-page.php:93
+#, php-format
+msgid ""
+"Thank you for choosing Attesa theme with Attesa Extra plugin! To fully take "
+"advantage of the best our theme can offer and read the documentation please "
+"make sure you visit our %1$swelcome page%2$s."
+msgstr ""
+
+#: panel/attesa-admin-page.php:99
+msgid "Get started with Attesa"
+msgstr ""
+
+#: panel/attesa-admin-page.php:100 panel/attesa-admin-page.php:440
+msgid "Import demo content"
+msgstr ""
+
+#: panel/attesa-admin-page.php:116
+msgid "WordPress Theme"
+msgstr ""
+
+#: panel/attesa-admin-page.php:121
+msgid "Theme Info"
+msgstr ""
+
+#: panel/attesa-admin-page.php:123
+msgid "View all Demos"
+msgstr ""
+
+#: panel/attesa-admin-page.php:126
+msgid "Discover Attesa PRO addon"
+msgstr ""
+
+#: panel/attesa-admin-page.php:129
+msgid "Rate this theme"
+msgstr ""
+
+#: panel/attesa-admin-page.php:131
+msgid "Theme Documentation"
+msgstr ""
+
+#: panel/attesa-admin-page.php:144
+msgid "Attesa Features"
+msgstr ""
+
+#: panel/attesa-admin-page.php:147
+msgid "Changelog"
+msgstr ""
+
+#: panel/attesa-admin-page.php:175
+msgid "Theme Customizer"
+msgstr ""
+
+#: panel/attesa-admin-page.php:176
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: panel/attesa-admin-page.php:177
+msgid "Customize"
+msgstr ""
+
+#: panel/attesa-admin-page.php:180
+msgid "Got theme support question?"
+msgstr ""
+
+#: panel/attesa-admin-page.php:181
+msgid "Please put it in our support forum."
+msgstr ""
+
+#: panel/attesa-admin-page.php:182
+msgid "Support"
+msgstr ""
+
+#: panel/attesa-admin-page.php:186
+msgid "Need more features?"
+msgstr ""
+
+#: panel/attesa-admin-page.php:187
+msgid "Get Attesa PRO addon for more exciting features."
+msgstr ""
+
+#: panel/attesa-admin-page.php:188
+msgid "Info about PRO version"
+msgstr ""
+
+#: panel/attesa-admin-page.php:194
+msgid "Translate Attesa Theme"
+msgstr ""
+
+#: panel/attesa-admin-page.php:197
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: panel/attesa-admin-page.php:201
+msgid "Translate"
+msgstr ""
+
+#: panel/attesa-admin-page.php:212
+msgid "Return to Updates"
+msgstr ""
+
+#: panel/attesa-admin-page.php:212
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: panel/attesa-admin-page.php:215
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: panel/attesa-admin-page.php:215
+msgid "Go to Dashboard"
+msgstr ""
+
+#: panel/attesa-admin-page.php:234
+msgid "Attesa theme: "
+msgstr ""
+
+#: panel/attesa-admin-page.php:234 panel/attesa-admin-page.php:248
+#: panel/attesa-admin-page.php:263
+msgid "View changelog below"
+msgstr ""
+
+#: panel/attesa-admin-page.php:248
+msgid "Attesa Extra plugin: "
+msgstr ""
+
+#: panel/attesa-admin-page.php:263
+msgid "Attesa PRO plugin: "
+msgstr ""
+
+#: panel/attesa-admin-page.php:311
+msgid "Get the PRO addon for more exciting features."
+msgstr ""
+
+#: panel/attesa-admin-page.php:313
+msgid "With Attesa PRO plugin, you have all the features available."
+msgstr ""
+
+#: panel/attesa-admin-page.php:318
+msgid "Features"
+msgstr ""
+
+#: panel/attesa-admin-page.php:320
+msgid "with Attesa Extra addon"
+msgstr ""
+
+#: panel/attesa-admin-page.php:321
+msgid "with Attesa PRO addon"
+msgstr ""
+
+#: panel/attesa-admin-page.php:326
+msgid "Theme Options made with the WP Customizer"
+msgstr ""
+
+#: panel/attesa-admin-page.php:332
+msgid "Responsive Design"
+msgstr ""
+
+#: panel/attesa-admin-page.php:338
+msgid "Logo Upload"
+msgstr ""
+
+#: panel/attesa-admin-page.php:344
+msgid "Unlimited Text and Background Color"
+msgstr ""
+
+#: panel/attesa-admin-page.php:350
+msgid "Choose Social Icons"
+msgstr ""
+
+#: panel/attesa-admin-page.php:356
+msgid "Elementor Compatibility"
+msgstr ""
+
+#: panel/attesa-admin-page.php:362
+msgid "WooCommerce Compatibility"
+msgstr ""
+
+#: panel/attesa-admin-page.php:368
+msgid "WPML / Polylang Multilingual ready"
+msgstr ""
+
+#: panel/attesa-admin-page.php:374
+msgid "RTL Support"
+msgstr ""
+
+#: panel/attesa-admin-page.php:380
+msgid "Sidebar and Footer Widgets"
+msgstr ""
+
+#: panel/attesa-admin-page.php:386
+msgid "Loading Page"
+msgstr ""
+
+#: panel/attesa-admin-page.php:387
+msgid "2 loaders"
+msgstr ""
+
+#: panel/attesa-admin-page.php:389
+msgid "5 loaders"
+msgstr ""
+
+#: panel/attesa-admin-page.php:392
+msgid "Google Fonts switcher"
+msgstr ""
+
+#: panel/attesa-admin-page.php:398
+msgid "Manage sidebar position"
+msgstr ""
+
+#: panel/attesa-admin-page.php:404
+msgid "Custom Copyright Text"
+msgstr ""
+
+#: panel/attesa-admin-page.php:410
+msgid "Exclusive Widgets"
+msgstr ""
+
+#: panel/attesa-admin-page.php:412
+msgid "4 widgets"
+msgstr ""
+
+#: panel/attesa-admin-page.php:413
+msgid "6 additional widgets"
+msgstr ""
+
+#: panel/attesa-admin-page.php:416
+msgid "Manage/change settings for every single page"
+msgstr ""
+
+#: panel/attesa-admin-page.php:422
+msgid "Custom templates"
+msgstr ""
+
+#: panel/attesa-admin-page.php:428
+msgid "Exclusive Elementor Widgets"
+msgstr ""
+
+#: panel/attesa-admin-page.php:431
+msgid "+ additional Elementor widgets"
+msgstr ""
+
+#: panel/attesa-admin-page.php:434
+msgid "Add custom JS code"
+msgstr ""
+
+#: panel/attesa-admin-page.php:443
+msgid "+ PRO demos available"
+msgstr ""
+
+#: panel/attesa-admin-page.php:446
+msgid "Create Custom Portfolio"
+msgstr ""
+
+#: panel/attesa-admin-page.php:452
+msgid "Create Footer Callouts"
+msgstr ""
+
+#: panel/attesa-admin-page.php:458
+msgid "Create Custom Sidebars"
+msgstr ""
+
+#: panel/attesa-admin-page.php:464
+msgid "Create Custom Sliders"
+msgstr ""
+
+#: panel/attesa-admin-page.php:470 panel/attesa-pro-features.php:70
+msgid "Icons in the menus"
+msgstr ""
+
+#: panel/attesa-admin-page.php:476
+msgid "Badges in the menus"
+msgstr ""
+
+#: panel/attesa-admin-page.php:482 panel/attesa-pro-features.php:110
+msgid "Floating Contact Buttons"
+msgstr ""
+
+#: panel/attesa-admin-page.php:488
+msgid "Masonry Blog Style"
+msgstr ""
+
+#: panel/attesa-admin-page.php:494
+msgid "Infinite Scroll for blog"
+msgstr ""
+
+#: panel/attesa-admin-page.php:500 panel/attesa-pro-features.php:145
+msgid "Customize 404 page"
+msgstr ""
+
+#: panel/attesa-admin-page.php:506
+msgid "Custom button in header post/page"
+msgstr ""
+
+#: panel/attesa-admin-page.php:512
+msgid "Social sharing buttons for post/page"
+msgstr ""
+
+#: panel/attesa-admin-page.php:518 panel/attesa-pro-features.php:80
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: panel/attesa-admin-page.php:524
+msgid "Related Posts Box"
+msgstr ""
+
+#: panel/attesa-admin-page.php:530
+msgid "Information About Author Box"
+msgstr ""
+
+#: panel/attesa-admin-page.php:536
+msgid "Login/Logout buttons for WooCommerce in main menu"
+msgstr ""
+
+#: panel/attesa-admin-page.php:542
+msgid "WooCommerce Image Flipper"
+msgstr ""
+
+#: panel/attesa-admin-page.php:548
+msgid "Copyright text without AttesaWP Credits"
+msgstr ""
+
+#: panel/attesa-admin-page.php:561 panel/attesa-pro-features.php:56
+#: panel/attesa-pro-features.php:157
+msgid "Get Attesa PRO addon"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:29
+msgctxt "post type general name"
+msgid "Attesa Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:30
+msgctxt "post type singular name"
+msgid "Template"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:31
+msgctxt "admin menu"
+msgid "Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:32
+msgctxt "add new on admin bar"
+msgid "Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:33
+msgctxt "template"
+msgid "Add New"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:34
+msgid "Add New Template"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:35
+msgid "New Template"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:36
+msgid "Edit Template"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:37
+msgid "All Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:38
+msgid "View Template"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:39
+msgid "Search Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:40
+msgid "No Template found"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:41
+msgid "No Template found in trash"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:63
+msgid "Attesa Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:64
+msgid "Custom Templates"
+msgstr ""
+
+#: panel/attesa-custom-templates.php:72 panel/attesa-custom-templates.php:93
+msgid "Template Shortcode"
+msgstr ""
+
+#: panel/attesa-pro-features.php:39
+msgid "Attesa PRO addon"
+msgstr ""
+
+#: panel/attesa-pro-features.php:40
+msgid "PRO Features"
+msgstr ""
+
+#: panel/attesa-pro-features.php:52
+msgid "Attesa PRO Addon"
+msgstr ""
+
+#: panel/attesa-pro-features.php:53
+msgid ""
+"Attesa PRO is a plugin that extends free Attesa theme & Attesa Extra plugin "
+"and adds more functions and features"
+msgstr ""
+
+#: panel/attesa-pro-features.php:60
+msgid "PRO Demos available"
+msgstr ""
+
+#: panel/attesa-pro-features.php:61
+msgid "In addition to free demos, you can also import PRO demos."
+msgstr ""
+
+#: panel/attesa-pro-features.php:65
+msgid "Elementor Widgets"
+msgstr ""
+
+#: panel/attesa-pro-features.php:66
+msgid "Many exclusive Elementor Widgets to personalize your pages."
+msgstr ""
+
+#: panel/attesa-pro-features.php:71
+msgid "Insert icons next to the items in each of your menus."
+msgstr ""
+
+#: panel/attesa-pro-features.php:75
+msgid "Create custom portfolios"
+msgstr ""
+
+#: panel/attesa-pro-features.php:76
+msgid "Show your projects to your audience by creating portfolios."
+msgstr ""
+
+#: panel/attesa-pro-features.php:81
+msgid "Make your sidebar permanently visible while scrolling."
+msgstr ""
+
+#: panel/attesa-pro-features.php:85
+msgid "Masonry posts style"
+msgstr ""
+
+#: panel/attesa-pro-features.php:86
+msgid ""
+"Arrange the items (posts) in an optimal position based on available vertical "
+"space."
+msgstr ""
+
+#: panel/attesa-pro-features.php:90
+msgid "Infinite scroll for posts"
+msgstr ""
+
+#: panel/attesa-pro-features.php:91
+msgid ""
+"Loading the items (posts) via ajax when visitors approach the bottom of the "
+"posts page."
+msgstr ""
+
+#: panel/attesa-pro-features.php:95
+msgid "Create custom sidebars"
+msgstr ""
+
+#: panel/attesa-pro-features.php:96
+msgid "Create additional sidebars and choose which pages to show them."
+msgstr ""
+
+#: panel/attesa-pro-features.php:100
+msgid "Footer Callout"
+msgstr ""
+
+#: panel/attesa-pro-features.php:101
+msgid ""
+"Attract your visitors with beautiful call-to-action placed in the footer."
+msgstr ""
+
+#: panel/attesa-pro-features.php:105
+msgid "Create custom sliders"
+msgstr ""
+
+#: panel/attesa-pro-features.php:106
+msgid ""
+"Create custom sliders (posts, pages, WooCommerce) and insert them wherever "
+"you want."
+msgstr ""
+
+#: panel/attesa-pro-features.php:111
+msgid ""
+"Insert floating buttons to allow your users to contact you easily via "
+"WhatsApp, Facebook Messenger or Telegram."
+msgstr ""
+
+#: panel/attesa-pro-features.php:115
+msgid "Related Posts box"
+msgstr ""
+
+#: panel/attesa-pro-features.php:116
+msgid "Show related posts (carousel) under each blog post."
+msgstr ""
+
+#: panel/attesa-pro-features.php:120
+msgid "Information about author box"
+msgstr ""
+
+#: panel/attesa-pro-features.php:121
+msgid "Show author information under each blog post."
+msgstr ""
+
+#: panel/attesa-pro-features.php:125
+msgid "Social Sharing buttons"
+msgstr ""
+
+#: panel/attesa-pro-features.php:126
+msgid ""
+"A set of social buttons so that visitors can quickly share pages and posts "
+"on social networks."
+msgstr ""
+
+#: panel/attesa-pro-features.php:130
+msgid "WooCommerce image flipper"
+msgstr ""
+
+#: panel/attesa-pro-features.php:131
+msgid ""
+"Adds a secondary product thumbnail on product archives that is displayed "
+"when you hover over the main product image."
+msgstr ""
+
+#: panel/attesa-pro-features.php:135
+msgid "Copyright Information"
+msgstr ""
+
+#: panel/attesa-pro-features.php:136
+msgid ""
+"Remove AttesaWP Credits next to your custom copyright text at the site "
+"footer."
+msgstr ""
+
+#: panel/attesa-pro-features.php:140
+msgid "Custom Header Button"
+msgstr ""
+
+#: panel/attesa-pro-features.php:141
+msgid ""
+"Add a custom button with links within the header image of specific pages or "
+"posts."
+msgstr ""
+
+#: panel/attesa-pro-features.php:146
+msgid "Customize 404 page (not found) of your website with text and image."
+msgstr ""
+
+#: panel/attesa-pro-features.php:150
+msgid "...Even More"
+msgstr ""
+
+#: panel/attesa-pro-features.php:151
+msgid ""
+"More page loader, more widgets, PowerTip script, and many other features "
+"that will be added over time."
+msgstr ""
+
+#: panel/classes/class-install-demos.php:52
+msgid "Attesa - Install Demos"
+msgstr ""
+
+#: panel/classes/class-install-demos.php:65
+msgid "All"
+msgstr ""
+
+#: panel/classes/class-install-demos.php:72
+msgid "Search demos..."
+msgstr ""
+
+#: panel/classes/importers/class-parsers.php:42
+#: panel/classes/importers/class-parsers.php:72
+#: panel/classes/importers/class-parsers.php:80
+#: panel/classes/importers/parsers/class-awp-parser-simplexml.php:29
+#: panel/classes/importers/parsers/class-awp-parser-simplexml.php:37
+#: panel/classes/importers/parsers/class-awp-parser.php:42
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: panel/classes/importers/class-parsers.php:43
+#: panel/classes/importers/parsers/class-awp-parser.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: panel/classes/importers/class-parsers.php:84
+#: panel/classes/importers/class-parsers.php:89
+#: panel/classes/importers/class-parsers.php:306
+#: panel/classes/importers/class-parsers.php:495
+#: panel/classes/importers/parsers/class-awp-parser-regex.php:96
+#: panel/classes/importers/parsers/class-awp-parser-simplexml.php:41
+#: panel/classes/importers/parsers/class-awp-parser-simplexml.php:46
+#: panel/classes/importers/parsers/class-awp-parser-xml.php:48
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: panel/classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: panel/classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: panel/classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: panel/classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: panel/classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: panel/classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:50
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:151
+#: panel/classes/importers/class-wordpress-importer.php:160
+#: panel/classes/importers/class-wordpress-importer.php:211
+#: panel/classes/importers/class-wordpress-importer.php:215
+#: panel/classes/importers/class-wordpress-importer.php:224
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:152
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:195
+msgid "All done."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:195
+msgid "Have fun!"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:196
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:216
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:232
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:257
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:283
+msgid "Assign Authors"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:284
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:286
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:296
+msgid "Import Attachments"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:299
+msgid "Download and import file attachments"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:303
+msgid "Submit"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:316
+msgid "Import author:"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:328
+msgid "or create new user with login name:"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:331
+msgid "as a new user:"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:341
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:343
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:351
+msgid "- Select -"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:405
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:457
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:502
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:557
+#: panel/classes/importers/class-wordpress-importer.php:783
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:650
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:687
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:749
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:923
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:930
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:993
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1006
+msgid "Invalid file type"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1045
+msgid "Could not create temporary file."
+msgstr ""
+
+#. translators: 1: The WordPress error message. 2: The WordPress error code.
+#: panel/classes/importers/class-wordpress-importer.php:1064
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#. translators: 1: The HTTP error message. 2: The HTTP error code.
+#: panel/classes/importers/class-wordpress-importer.php:1080
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1092
+msgid "Remote server did not respond"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1099
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1104
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1110
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1142
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1157
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1269
+msgid "Import WordPress"
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1276
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1291
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: panel/classes/importers/class-wordpress-importer.php:1292
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: panel/demos.php:104
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: panel/demos.php:105
+msgid "Activating"
+msgstr ""
+
+#: panel/demos.php:106
+msgid "Active"
+msgstr ""
+
+#. translators: name of the demo
+#: panel/demos.php:503 panel/demos.php:537
+#, php-format
+msgid "Import the %1$s demo"
+msgstr ""
+
+#: panel/demos.php:508
+msgid ""
+"This demo cannot be imported because it contains features available with "
+"\"Attesa PRO\" addon."
+msgstr ""
+
+#: panel/demos.php:509
+msgid ""
+"Get \"Attesa PRO\" plugin and install it on your WordPress website to import "
+"this demo and many others."
+msgstr ""
+
+#: panel/demos.php:519
+msgid "Attesa PRO"
+msgstr ""
+
+#: panel/demos.php:521
+msgid "Get This Addon"
+msgstr ""
+
+#. translators: 1: start link, 2: end link
+#: panel/demos.php:545
+#, php-format
+msgid ""
+"Importing demo data allow you to quickly edit everything instead of creating "
+"content from scratch. It is recommended uploading sample data on a fresh "
+"WordPress install to prevent conflicts with your current content. You can "
+"use this plugin to reset your site if needed: %1$sWordpress Database "
+"Reset%2$s."
+msgstr ""
+
+#: panel/demos.php:551
+msgid "Required Plugins"
+msgstr ""
+
+#: panel/demos.php:552
+msgid ""
+"For your site to look exactly like this demo, the plugins below need to be "
+"activated."
+msgstr ""
+
+#: panel/demos.php:561
+msgid "Go to the next step"
+msgstr ""
+
+#: panel/demos.php:571
+msgid "Select what you want to import:"
+msgstr ""
+
+#: panel/demos.php:577
+msgid "Import XML Data"
+msgstr ""
+
+#: panel/demos.php:577
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: panel/demos.php:584
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: panel/demos.php:591
+msgid "Import Widgets"
+msgstr ""
+
+#: panel/demos.php:600
+msgid "Install this demo"
+msgstr ""
+
+#: panel/demos.php:605
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: panel/demos.php:611
+msgid "Demo Imported!"
+msgstr ""
+
+#: panel/demos.php:612
+msgid "See the result"
+msgstr ""
+
+#: panel/demos.php:641
+msgid "Activate"
+msgstr ""
+
+#: panel/demos.php:647
+msgid "Install Now"
+msgstr ""
+
+#: panel/demos.php:652
+msgid "Activated"
+msgstr ""
+
+#: panel/demos.php:681
+msgid "No plugin specified"
+msgstr ""
+
+#: panel/demos.php:701
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: panel/demos.php:724
+msgid "Importing XML Data"
+msgstr ""
+
+#: panel/demos.php:731
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: panel/demos.php:738
+msgid "Importing Widgets"
+msgstr ""
+
+#: panel/demos.php:1001
+msgid ""
+"Can not retrieve sample data xml file. AttesaWP.com may be down at the "
+"moment please try again later. If you still have issues contact the theme "
+"developer for assistance."
+msgstr ""
+
+#: panel/demos.php:1016
+msgid ""
+"The xml import file could not be accessed. Please try again or contact the "
+"theme developer."
+msgstr ""
+
+#: panel/demos.php:1053
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: panel/demos.php:1063
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: panel/demos.php:1074
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: widgets/latest-comments.php:10
+msgid "Attesa Recent Comments with avatar"
+msgstr ""
+
+#: widgets/latest-comments.php:13
+msgid "Displays a list of recent comments with avatar"
+msgstr ""
+
+#: widgets/latest-comments.php:20
+msgid "Latest Comments"
+msgstr ""
+
+#: widgets/latest-comments.php:31 widgets/random-post.php:33
+#: widgets/recent-post.php:33 widgets/social-buttons.php:29
+msgid "Title:"
+msgstr ""
+
+#: widgets/latest-comments.php:35
+msgid "Number of Comments to display:"
+msgstr ""
+
+#: widgets/latest-comments.php:61
+msgid "on:"
+msgstr ""
+
+#: widgets/random-post.php:10
+msgid "Attesa Random Posts with thumbnails"
+msgstr ""
+
+#: widgets/random-post.php:13
+msgid "Displays a list of random posts with thumbnails"
+msgstr ""
+
+#: widgets/random-post.php:20
+msgid "Random Post"
+msgstr ""
+
+#: widgets/random-post.php:37 widgets/recent-post.php:37
+msgid "Number of Posts Displayed:"
+msgstr ""
+
+#: widgets/random-post.php:41 widgets/recent-post.php:41
+msgid "Category filter (optional):"
+msgstr ""
+
+#: widgets/random-post.php:43 widgets/recent-post.php:43
+msgid ""
+"If you want to view only posts from some categories, add the category IDs "
+"separated by a comma (example: 15,42,12)"
+msgstr ""
+
+#: widgets/recent-post.php:10
+msgid "Attesa Recent Posts with thumbnails"
+msgstr ""
+
+#: widgets/recent-post.php:13
+msgid "Displays a list of your latest posts with thumbnails"
+msgstr ""
+
+#: widgets/recent-post.php:20
+msgid "Recent posts"
+msgstr ""
+
+#. translators: %s: human-readable time difference
+#: widgets/recent-post.php:72
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr ""
+
+#: widgets/social-buttons.php:10
+msgid "Attesa Social Buttons"
+msgstr ""
+
+#: widgets/social-buttons.php:13
+msgid "Displays the Social Network added in Theme Options"
+msgstr ""
+
+#: widgets/social-buttons.php:20
+msgid "We are on"
+msgstr ""
+
+#: widgets/social-buttons.php:33
+msgid ""
+"Add your social network in Appearance -> Customize -> Attesa Theme Options -"
+"> Social Buttons"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Attesa Extra"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://attesawp.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add extra features to Attesa WordPress Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "AttesaWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://attesawp.com/about/"
+msgstr ""

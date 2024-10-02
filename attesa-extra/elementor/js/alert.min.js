@@ -1,0 +1,1 @@
+!function(e){var n=function(e,n){e.find(".awp-alert-close-button").click(function(){n(this).parents('div[class^="awp-alert"]').fadeOut(500)})};e(window).on("elementor/frontend/init",function(){elementorFrontend.hooks.addAction("frontend/element_ready/attesa-extra-alert-message.default",n)})}(jQuery);

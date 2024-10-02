@@ -1,0 +1,71 @@
+/* Blog Posts */
+.attesa-extra-blog-posts-elementor .attesa-extra-elementor-blog-title {
+	padding: 0;
+    margin: 0;
+    line-height: 1;
+}
+.attesa-extra-blog-posts-elementor {
+	width: 100%;
+}
+.attesa-extra-blog-posts-elementor .entry-thumb {
+	margin-bottom: 15px;
+}
+.attesa-extra-blog-posts-elementor .entry-thumb img {
+	width: 100%;
+	display: block;
+}
+.attesa-extra-blog-posts-elementor .latest-news-wrapper {
+	display: grid;
+    -webkit-box-align: stretch;
+    -webkit-align-items: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.attesa-extra-blog-posts-elementor.number-columns-1 .latest-news-wrapper {
+	grid-template-columns: repeat(1,1fr);
+}
+.attesa-extra-blog-posts-elementor.number-columns-2 .latest-news-wrapper {
+	grid-template-columns: repeat(2,1fr);
+}
+.attesa-extra-blog-posts-elementor.number-columns-3 .latest-news-wrapper {
+	grid-template-columns: repeat(3,1fr);
+}
+.attesa-extra-blog-posts-elementor.number-columns-4 .latest-news-wrapper {
+	grid-template-columns: repeat(4,1fr);
+}
+.attesa-extra-blog-posts-elementor.number-columns-5 .latest-news-wrapper {
+	grid-template-columns: repeat(5,1fr);
+}
+.attesa-extra-blog-posts-elementor article {
+	margin: 0;
+	border-bottom-width: 0;
+}
+@media all and (max-width: 1025px) {
+	.attesa-extra-blog-posts-elementor.number-columns-4 .latest-news-wrapper {
+		grid-template-columns: repeat(2,1fr);
+	}
+	.attesa-extra-blog-posts-elementor.number-columns-5 .latest-news-wrapper {
+		grid-template-columns: repeat(3,1fr);
+	}
+}
+@media all and (max-width: 768px) {
+	.attesa-extra-blog-posts-elementor.number-columns-3 .latest-news-wrapper,
+	.attesa-extra-blog-posts-elementor.number-columns-4 .latest-news-wrapper,
+	.attesa-extra-blog-posts-elementor.number-columns-5 .latest-news-wrapper {
+		grid-template-columns: repeat(2,1fr);
+	}
+}
+@media all and (max-width: 767px) {
+	.attesa-extra-blog-posts-elementor.number-columns-1 .latest-news-wrapper,
+	.attesa-extra-blog-posts-elementor.number-columns-2 .latest-news-wrapper,
+	.attesa-extra-blog-posts-elementor.number-columns-3 .latest-news-wrapper,
+	.attesa-extra-blog-posts-elementor.number-columns-4 .latest-news-wrapper,
+	.attesa-extra-blog-posts-elementor.number-columns-5 .latest-news-wrapper {
+		grid-template-columns: repeat(1,1fr);
+	}
+}
