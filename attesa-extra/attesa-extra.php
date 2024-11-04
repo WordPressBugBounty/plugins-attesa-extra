@@ -3,7 +3,7 @@
  * Plugin Name: Attesa Extra
  * Plugin URI: https://attesawp.com/
  * Description: Add extra features to Attesa WordPress Theme.
- * Version: 1.4.1
+ * Version: 1.4.2
  * Author: AttesaWP
  * Author URI: https://attesawp.com/about/
  * Domain Path: /languages
@@ -27,7 +27,7 @@ final class Attesa_extra {
 	private $plugin_path;
 	public function __construct() {
 		$this->plugin_path = plugin_dir_path( __FILE__ );
-		define( 'ATTESA_EXTRA_PLUGIN_VERSION', '1.4.1' );
+		define( 'ATTESA_EXTRA_PLUGIN_VERSION', '1.4.2' );
 		define( 'AE_PATH', $this->plugin_path );
 		if ($this->attesaextra_check_load()) {
 			add_action( 'after_setup_theme', array($this, 'attesaextra_add_image_size' ));
