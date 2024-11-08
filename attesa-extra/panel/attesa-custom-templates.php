@@ -108,7 +108,7 @@ final class Attesa_Custom_Templates {
 
 		ob_start();
 		
-		if ( $atts[ 'id' ] && get_post_status($atts[ 'id' ]) == 'publish') {
+		if ( $atts[ 'id' ] && get_post_status($atts[ 'id' ]) == 'publish' && !post_password_required($atts[ 'id' ])) {
 			$elementor  = get_post_meta( $atts[ 'id' ], '_elementor_edit_mode', true );
 			if ( class_exists( 'Elementor\Plugin' ) && $elementor ) {
 
