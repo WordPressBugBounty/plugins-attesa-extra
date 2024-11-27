@@ -7,7 +7,7 @@ use Elementor\Controls_Manager;
 use Elementor\Scheme_Color;
 use Elementor\Widget_Base;
 use Elementor\Group_Control_Typography;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Icons_Manager;
 use Elementor\Controls_Stack;
 
@@ -277,7 +277,9 @@ class Attesa_Extra_Alert_Message extends Widget_Base {
 			[
 				'name' 		=> 'section_alert_style_title_typo',
 				'selector' 	=> '{{WRAPPER}} .awp-alert .attesa-extra-alert-wrap .attesa-alert-title',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		
@@ -298,7 +300,9 @@ class Attesa_Extra_Alert_Message extends Widget_Base {
 			[
 				'name' 		=> 'section_alert_style_title_content',
 				'selector' 	=> '{{WRAPPER}} .awp-alert .attesa-extra-alert-wrap .attesa-alert-content',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		

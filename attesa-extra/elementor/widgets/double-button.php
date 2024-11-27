@@ -9,7 +9,7 @@ use Elementor\Widget_Base;
 use Elementor\Group_Control_Border;
 use Elementor\Group_Control_Box_Shadow;
 use Elementor\Icons_Manager;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Group_Control_Typography;
 use Elementor\Controls_Stack;
 
@@ -403,7 +403,9 @@ class Attesa_Extra_Double_Button extends Widget_Base {
 			[
 				'name' 			=> 'section_double_divider_text_typo',
 				'selector' 		=> '{{WRAPPER}} .awp-divider-button-text', 
-				'scheme' 		=> Typography::TYPOGRAPHY_1,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
 				'condition' => [
 					'section_double_divider_choose' => 'text',
 				],
@@ -551,7 +553,9 @@ class Attesa_Extra_Double_Button extends Widget_Base {
 			[
 				'name' 			=> 'section_double_button_typo',
 				'selector' 		=> '{{WRAPPER}} .awp-first-button-link, {{WRAPPER}} .awp-second-button-link', 
-				'scheme' 		=> Typography::TYPOGRAPHY_1,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
 			]
 		);
 		

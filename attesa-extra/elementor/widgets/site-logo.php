@@ -7,7 +7,7 @@ use Elementor\Controls_Manager;
 use Elementor\Scheme_Color;
 use Elementor\Widget_Base;
 use Elementor\Group_Control_Typography;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Controls_Stack;
 
 class Attesa_Extra_Site_Logo extends Widget_Base {
@@ -119,7 +119,9 @@ class Attesa_Extra_Site_Logo extends Widget_Base {
 			[
 				'name' 		=> 'title_typography',
 				'selector' 	=> '{{WRAPPER}} .attesa-custom-logo .site-title a',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		
@@ -150,7 +152,9 @@ class Attesa_Extra_Site_Logo extends Widget_Base {
 			[
 				'name' 		=> 'tagline_typography',
 				'selector' 	=> '{{WRAPPER}} .attesa-custom-logo .site-description',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		

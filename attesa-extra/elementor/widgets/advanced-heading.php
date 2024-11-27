@@ -7,7 +7,7 @@ use Elementor\Controls_Manager;
 use Elementor\Scheme_Color;
 use Elementor\Widget_Base;
 use Elementor\Group_Control_Typography;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Icons_Manager;
 use Elementor\Group_Control_Box_Shadow;
 use Elementor\Controls_Stack;
@@ -236,7 +236,9 @@ class Attesa_Extra_Advanced_Heading extends Widget_Base {
 				'label' 		=> __( 'First part title typography', 'attesa-extra' ),
 				'name' 		=> 'advanced_heading_title_typography_first',
 				'selector' 	=> '{{WRAPPER}} .awp-advanced-heading-title .awp-advanced-heading-first-title' ,
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		
@@ -258,7 +260,9 @@ class Attesa_Extra_Advanced_Heading extends Widget_Base {
 				'label' 		=> __( 'Second part title typography', 'attesa-extra' ),
 				'name' 		=> 'advanced_heading_title_typography_second',
 				'selector' 	=> '{{WRAPPER}} .awp-advanced-heading-title .awp-advanced-heading-second-title' ,
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		
@@ -540,7 +544,9 @@ class Attesa_Extra_Advanced_Heading extends Widget_Base {
 			[
 				'name' 		=> 'advanced_heading_subtitle_typography',
 				'selector' 	=> '{{WRAPPER}} .awp-advanced-heading-subtitle' ,
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		

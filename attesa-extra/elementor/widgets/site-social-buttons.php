@@ -7,7 +7,7 @@ use Elementor\Controls_Manager;
 use Elementor\Scheme_Color;
 use Elementor\Widget_Base;
 use Elementor\Group_Control_Typography;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Controls_Stack;
 
 class Attesa_Extra_Site_Social_Buttons extends Widget_Base {

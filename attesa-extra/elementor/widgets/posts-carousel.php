@@ -7,7 +7,7 @@ use Elementor\Controls_Manager;
 use Elementor\Scheme_Color;
 use Elementor\Widget_Base;
 use Elementor\Group_Control_Typography;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Controls_Stack;
 
 class Attesa_Extra_Posts_Carousel extends Widget_Base {
@@ -272,7 +272,9 @@ class Attesa_Extra_Posts_Carousel extends Widget_Base {
 			[
 				'name' 		=> 'post_title_typography',
 				'selector' 	=> '{{WRAPPER}} .latest-news-wrapper article .attesa-extra-elementor-blog-title',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 		
@@ -322,7 +324,9 @@ class Attesa_Extra_Posts_Carousel extends Widget_Base {
 			[
 				'name' 		=> 'content_typography',
 				'selector' 	=> '{{WRAPPER}} .latest-news-wrapper article .post-excerpt',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 
@@ -353,7 +357,9 @@ class Attesa_Extra_Posts_Carousel extends Widget_Base {
 			[
 				'name' 		=> 'categories_typography',
 				'selector' 	=> '{{WRAPPER}} .latest-news-wrapper article .elementor-cat-links',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 
@@ -384,7 +390,9 @@ class Attesa_Extra_Posts_Carousel extends Widget_Base {
 			[
 				'name' 		=> 'meta_typography',
 				'selector' 	=> '.awp-blog-grid-meta',
-				'scheme' 	=> Typography::TYPOGRAPHY_3,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_TEXT,
+				],
 			]
 		);
 

@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Attesa Extra\n"
-"POT-Creation-Date: 2024-08-28 00:09+0200\n"
-"PO-Revision-Date: 2024-08-28 00:09+0200\n"
+"POT-Creation-Date: 2024-11-27 10:13+0100\n"
+"PO-Revision-Date: 2024-11-27 10:13+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: en_US\n"
@@ -116,7 +116,7 @@ msgstr ""
 msgid "Choose the template for the header"
 msgstr ""
 
-#: customizer/functions.php:50 elementor/widgets/navigation-menu.php:333
+#: customizer/functions.php:50 elementor/widgets/navigation-menu.php:335
 msgid "-- Select --"
 msgstr ""
 
@@ -309,68 +309,68 @@ msgstr ""
 
 #: elementor/widgets/advanced-heading.php:63
 #: elementor/widgets/heading-typewriter.php:172
-#: elementor/widgets/posts-carousel.php:282
+#: elementor/widgets/posts-carousel.php:284
 msgid "HTML Tag"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:67 elementor/widgets/flip-box.php:416
-#: elementor/widgets/flip-box.php:663
+#: elementor/widgets/advanced-heading.php:67 elementor/widgets/flip-box.php:418
+#: elementor/widgets/flip-box.php:669
 #: elementor/widgets/heading-typewriter.php:176
 msgid "H1"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:68 elementor/widgets/flip-box.php:417
-#: elementor/widgets/flip-box.php:664
+#: elementor/widgets/advanced-heading.php:68 elementor/widgets/flip-box.php:419
+#: elementor/widgets/flip-box.php:670
 #: elementor/widgets/heading-typewriter.php:177
-#: elementor/widgets/posts-carousel.php:286
+#: elementor/widgets/posts-carousel.php:288
 msgid "H2"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:69 elementor/widgets/flip-box.php:418
-#: elementor/widgets/flip-box.php:665
+#: elementor/widgets/advanced-heading.php:69 elementor/widgets/flip-box.php:420
+#: elementor/widgets/flip-box.php:671
 #: elementor/widgets/heading-typewriter.php:178
-#: elementor/widgets/posts-carousel.php:287
+#: elementor/widgets/posts-carousel.php:289
 msgid "H3"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:70 elementor/widgets/flip-box.php:419
-#: elementor/widgets/flip-box.php:666
+#: elementor/widgets/advanced-heading.php:70 elementor/widgets/flip-box.php:421
+#: elementor/widgets/flip-box.php:672
 #: elementor/widgets/heading-typewriter.php:179
-#: elementor/widgets/posts-carousel.php:288
+#: elementor/widgets/posts-carousel.php:290
 msgid "H4"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:71 elementor/widgets/flip-box.php:420
-#: elementor/widgets/flip-box.php:667
+#: elementor/widgets/advanced-heading.php:71 elementor/widgets/flip-box.php:422
+#: elementor/widgets/flip-box.php:673
 #: elementor/widgets/heading-typewriter.php:180
-#: elementor/widgets/posts-carousel.php:289
+#: elementor/widgets/posts-carousel.php:291
 msgid "H5"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:72 elementor/widgets/flip-box.php:421
-#: elementor/widgets/flip-box.php:668
+#: elementor/widgets/advanced-heading.php:72 elementor/widgets/flip-box.php:423
+#: elementor/widgets/flip-box.php:674
 #: elementor/widgets/heading-typewriter.php:181
-#: elementor/widgets/posts-carousel.php:290
+#: elementor/widgets/posts-carousel.php:292
 msgid "H6"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:73 elementor/widgets/flip-box.php:422
-#: elementor/widgets/flip-box.php:669
+#: elementor/widgets/advanced-heading.php:73 elementor/widgets/flip-box.php:424
+#: elementor/widgets/flip-box.php:675
 #: elementor/widgets/heading-typewriter.php:182
-#: elementor/widgets/posts-carousel.php:291
+#: elementor/widgets/posts-carousel.php:293
 msgid "div"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:74 elementor/widgets/flip-box.php:423
-#: elementor/widgets/flip-box.php:670
+#: elementor/widgets/advanced-heading.php:74 elementor/widgets/flip-box.php:425
+#: elementor/widgets/flip-box.php:676
 #: elementor/widgets/heading-typewriter.php:183
-#: elementor/widgets/posts-carousel.php:292
+#: elementor/widgets/posts-carousel.php:294
 msgid "span"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:75
 #: elementor/widgets/heading-typewriter.php:184
-#: elementor/widgets/posts-carousel.php:293
+#: elementor/widgets/posts-carousel.php:295
 msgid "p"
 msgstr ""
 
@@ -405,9 +405,9 @@ msgid "Box padding"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:175
-#: elementor/widgets/advanced-heading.php:455
+#: elementor/widgets/advanced-heading.php:459
 #: elementor/widgets/alert-message.php:171 elementor/widgets/flip-box.php:288
-#: elementor/widgets/posts-carousel.php:452
+#: elementor/widgets/posts-carousel.php:460
 msgid "Border Radius"
 msgstr ""
 
@@ -416,62 +416,62 @@ msgid "Title style"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:205
-#: elementor/widgets/advanced-heading.php:314
-#: elementor/widgets/advanced-heading.php:477 elementor/widgets/divider.php:92
-#: elementor/widgets/double-button.php:451 elementor/widgets/flip-box.php:507
-#: elementor/widgets/flip-box.php:754
+#: elementor/widgets/advanced-heading.php:318
+#: elementor/widgets/advanced-heading.php:481 elementor/widgets/divider.php:92
+#: elementor/widgets/double-button.php:453 elementor/widgets/flip-box.php:511
+#: elementor/widgets/flip-box.php:762
 #: elementor/widgets/heading-typewriter.php:192
 #: elementor/widgets/navigation-menu.php:69
-#: elementor/widgets/navigation-menu.php:281
-#: elementor/widgets/posts-carousel.php:500 elementor/widgets/site-logo.php:49
+#: elementor/widgets/navigation-menu.php:283
+#: elementor/widgets/posts-carousel.php:508 elementor/widgets/site-logo.php:49
 #: elementor/widgets/site-social-buttons.php:52
 msgid "Alignment"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:209
-#: elementor/widgets/advanced-heading.php:318
-#: elementor/widgets/advanced-heading.php:481 elementor/widgets/divider.php:96
-#: elementor/widgets/double-button.php:455 elementor/widgets/flip-box.php:511
-#: elementor/widgets/flip-box.php:758
+#: elementor/widgets/advanced-heading.php:322
+#: elementor/widgets/advanced-heading.php:485 elementor/widgets/divider.php:96
+#: elementor/widgets/double-button.php:457 elementor/widgets/flip-box.php:515
+#: elementor/widgets/flip-box.php:766
 #: elementor/widgets/heading-typewriter.php:196
 #: elementor/widgets/navigation-menu.php:73
-#: elementor/widgets/navigation-menu.php:285
-#: elementor/widgets/posts-carousel.php:504 elementor/widgets/site-logo.php:53
+#: elementor/widgets/navigation-menu.php:287
+#: elementor/widgets/posts-carousel.php:512 elementor/widgets/site-logo.php:53
 #: elementor/widgets/site-social-buttons.php:56
 msgid "Left"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:213
-#: elementor/widgets/advanced-heading.php:322
-#: elementor/widgets/advanced-heading.php:485 elementor/widgets/divider.php:97
-#: elementor/widgets/double-button.php:459 elementor/widgets/flip-box.php:104
-#: elementor/widgets/flip-box.php:515 elementor/widgets/flip-box.php:762
+#: elementor/widgets/advanced-heading.php:326
+#: elementor/widgets/advanced-heading.php:489 elementor/widgets/divider.php:97
+#: elementor/widgets/double-button.php:461 elementor/widgets/flip-box.php:104
+#: elementor/widgets/flip-box.php:519 elementor/widgets/flip-box.php:770
 #: elementor/widgets/heading-typewriter.php:200
 #: elementor/widgets/navigation-menu.php:77
-#: elementor/widgets/navigation-menu.php:289
-#: elementor/widgets/posts-carousel.php:508 elementor/widgets/site-logo.php:57
+#: elementor/widgets/navigation-menu.php:291
+#: elementor/widgets/posts-carousel.php:516 elementor/widgets/site-logo.php:57
 #: elementor/widgets/site-social-buttons.php:60
 msgid "Center"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:217
-#: elementor/widgets/advanced-heading.php:326
-#: elementor/widgets/advanced-heading.php:489 elementor/widgets/divider.php:98
-#: elementor/widgets/double-button.php:463 elementor/widgets/flip-box.php:519
-#: elementor/widgets/flip-box.php:766
+#: elementor/widgets/advanced-heading.php:330
+#: elementor/widgets/advanced-heading.php:493 elementor/widgets/divider.php:98
+#: elementor/widgets/double-button.php:465 elementor/widgets/flip-box.php:523
+#: elementor/widgets/flip-box.php:774
 #: elementor/widgets/heading-typewriter.php:204
 #: elementor/widgets/navigation-menu.php:81
-#: elementor/widgets/navigation-menu.php:293
-#: elementor/widgets/posts-carousel.php:512 elementor/widgets/site-logo.php:61
+#: elementor/widgets/navigation-menu.php:295
+#: elementor/widgets/posts-carousel.php:520 elementor/widgets/site-logo.php:61
 #: elementor/widgets/site-social-buttons.php:64
 msgid "Right"
 msgstr ""
 
 #: elementor/widgets/advanced-heading.php:221
-#: elementor/widgets/advanced-heading.php:493
-#: elementor/widgets/flip-box.php:523 elementor/widgets/flip-box.php:770
+#: elementor/widgets/advanced-heading.php:497
+#: elementor/widgets/flip-box.php:527 elementor/widgets/flip-box.php:778
 #: elementor/widgets/heading-typewriter.php:208
-#: elementor/widgets/posts-carousel.php:516
+#: elementor/widgets/posts-carousel.php:524
 msgid "Justify"
 msgstr ""
 
@@ -479,70 +479,70 @@ msgstr ""
 msgid "First part title typography"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:246
+#: elementor/widgets/advanced-heading.php:248
 msgid "First part title color"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:258
+#: elementor/widgets/advanced-heading.php:260
 msgid "Second part title typography"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:268
+#: elementor/widgets/advanced-heading.php:272
 msgid "Second part title color"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:280
-#: elementor/widgets/advanced-heading.php:434
-#: elementor/widgets/advanced-heading.php:508 elementor/widgets/divider.php:137
+#: elementor/widgets/advanced-heading.php:284
+#: elementor/widgets/advanced-heading.php:438
+#: elementor/widgets/advanced-heading.php:512 elementor/widgets/divider.php:137
 msgid "Gap"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:303
+#: elementor/widgets/advanced-heading.php:307
 msgid "Icon style"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:341
-#: elementor/widgets/alert-message.php:320
+#: elementor/widgets/advanced-heading.php:345
+#: elementor/widgets/alert-message.php:324
 #: elementor/widgets/double-button.php:367 elementor/widgets/flip-box.php:327
-#: elementor/widgets/flip-box.php:574
+#: elementor/widgets/flip-box.php:578
 msgid "Icon size"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:360
+#: elementor/widgets/advanced-heading.php:364
 msgid "Icon padding"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:396
+#: elementor/widgets/advanced-heading.php:400
 msgid "Icon position"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:400
+#: elementor/widgets/advanced-heading.php:404
 #: elementor/widgets/flip-box.php:103
 msgid "Top"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:401
+#: elementor/widgets/advanced-heading.php:405
 msgid "Middle"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:402
+#: elementor/widgets/advanced-heading.php:406
 #: elementor/widgets/flip-box.php:105
 msgid "Bottom"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:410
+#: elementor/widgets/advanced-heading.php:414
 msgid "Icon color"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:422
+#: elementor/widgets/advanced-heading.php:426
 msgid "Icon background"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:469
+#: elementor/widgets/advanced-heading.php:473
 msgid "Subtitle style"
 msgstr ""
 
-#: elementor/widgets/advanced-heading.php:529
+#: elementor/widgets/advanced-heading.php:533
 msgid "Subtitle color"
 msgstr ""
 
@@ -606,16 +606,16 @@ msgid "Background Color"
 msgstr ""
 
 #: elementor/widgets/alert-message.php:122
-#: elementor/widgets/heading-typewriter.php:263
-#: elementor/widgets/heading-typewriter.php:285
-#: elementor/widgets/heading-typewriter.php:307
-#: elementor/widgets/navigation-menu.php:163
+#: elementor/widgets/heading-typewriter.php:265
+#: elementor/widgets/heading-typewriter.php:287
+#: elementor/widgets/heading-typewriter.php:309
+#: elementor/widgets/navigation-menu.php:165
 msgid "Text Color"
 msgstr ""
 
 #: elementor/widgets/alert-message.php:134
-#: elementor/widgets/double-button.php:478
-#: elementor/widgets/double-button.php:583 elementor/widgets/flip-box.php:251
+#: elementor/widgets/double-button.php:480
+#: elementor/widgets/double-button.php:587 elementor/widgets/flip-box.php:251
 msgid "Padding"
 msgstr ""
 
@@ -652,16 +652,16 @@ msgid "Border Color"
 msgstr ""
 
 #: elementor/widgets/alert-message.php:270 elementor/widgets/flip-box.php:372
-#: elementor/widgets/flip-box.php:619
+#: elementor/widgets/flip-box.php:623
 msgid "Title Typography"
 msgstr ""
 
-#: elementor/widgets/alert-message.php:291 elementor/widgets/flip-box.php:441
-#: elementor/widgets/flip-box.php:688
+#: elementor/widgets/alert-message.php:293 elementor/widgets/flip-box.php:443
+#: elementor/widgets/flip-box.php:694
 msgid "Content Typography"
 msgstr ""
 
-#: elementor/widgets/alert-message.php:312
+#: elementor/widgets/alert-message.php:316
 msgid "Icon Style"
 msgstr ""
 
@@ -681,11 +681,11 @@ msgstr ""
 #: elementor/widgets/double-button.php:151
 #: elementor/widgets/double-button.php:262
 #: elementor/widgets/double-button.php:295
-#: elementor/widgets/double-button.php:416
+#: elementor/widgets/double-button.php:418
 #: elementor/widgets/posts-carousel.php:262
-#: elementor/widgets/posts-carousel.php:312
-#: elementor/widgets/posts-carousel.php:343
-#: elementor/widgets/posts-carousel.php:374
+#: elementor/widgets/posts-carousel.php:314
+#: elementor/widgets/posts-carousel.php:347
+#: elementor/widgets/posts-carousel.php:380
 msgid "Color"
 msgstr ""
 
@@ -752,8 +752,8 @@ msgstr ""
 #: elementor/widgets/double-button.php:163
 #: elementor/widgets/double-button.php:274
 #: elementor/widgets/double-button.php:307
-#: elementor/widgets/double-button.php:428 elementor/widgets/flip-box.php:539
-#: elementor/widgets/flip-box.php:786
+#: elementor/widgets/double-button.php:430 elementor/widgets/flip-box.php:543
+#: elementor/widgets/flip-box.php:794
 msgid "Background"
 msgstr ""
 
@@ -784,19 +784,19 @@ msgstr ""
 msgid "Text"
 msgstr ""
 
-#: elementor/widgets/double-button.php:442
+#: elementor/widgets/double-button.php:444
 msgid "Box Style"
 msgstr ""
 
-#: elementor/widgets/double-button.php:515
+#: elementor/widgets/double-button.php:517
 msgid "Buttons Border Radius"
 msgstr ""
 
-#: elementor/widgets/double-button.php:571
+#: elementor/widgets/double-button.php:575
 msgid "Divider Style"
 msgstr ""
 
-#: elementor/widgets/double-button.php:619
+#: elementor/widgets/double-button.php:623
 msgid "Divider Border Radius"
 msgstr ""
 
@@ -839,32 +839,32 @@ msgid ""
 "pretium, tempus tellus et, pellentesque ligula. Suspendisse potenti."
 msgstr ""
 
-#: elementor/widgets/flip-box.php:187 elementor/widgets/flip-box.php:550
+#: elementor/widgets/flip-box.php:187 elementor/widgets/flip-box.php:554
 msgid "Back side"
 msgstr ""
 
-#: elementor/widgets/flip-box.php:312 elementor/widgets/flip-box.php:559
+#: elementor/widgets/flip-box.php:312 elementor/widgets/flip-box.php:563
 #: elementor/widgets/site-social-buttons.php:182
 msgid "Icon Color"
 msgstr ""
 
-#: elementor/widgets/flip-box.php:347 elementor/widgets/flip-box.php:594
+#: elementor/widgets/flip-box.php:347 elementor/widgets/flip-box.php:598
 msgid "Title margin"
 msgstr ""
 
-#: elementor/widgets/flip-box.php:391 elementor/widgets/flip-box.php:638
+#: elementor/widgets/flip-box.php:393 elementor/widgets/flip-box.php:644
 msgid "Title Color"
 msgstr ""
 
-#: elementor/widgets/flip-box.php:412 elementor/widgets/flip-box.php:659
+#: elementor/widgets/flip-box.php:414 elementor/widgets/flip-box.php:665
 msgid "Title Tag"
 msgstr ""
 
-#: elementor/widgets/flip-box.php:460 elementor/widgets/flip-box.php:707
+#: elementor/widgets/flip-box.php:464 elementor/widgets/flip-box.php:715
 msgid "Content margin"
 msgstr ""
 
-#: elementor/widgets/flip-box.php:485 elementor/widgets/flip-box.php:732
+#: elementor/widgets/flip-box.php:489 elementor/widgets/flip-box.php:740
 msgid "Content Color"
 msgstr ""
 
@@ -947,15 +947,15 @@ msgstr ""
 msgid "Typohrapy text"
 msgstr ""
 
-#: elementor/widgets/heading-typewriter.php:255
+#: elementor/widgets/heading-typewriter.php:257
 msgid "Typewriter text"
 msgstr ""
 
-#: elementor/widgets/heading-typewriter.php:277
+#: elementor/widgets/heading-typewriter.php:279
 msgid "Before text"
 msgstr ""
 
-#: elementor/widgets/heading-typewriter.php:299
+#: elementor/widgets/heading-typewriter.php:301
 msgid "After text"
 msgstr ""
 
@@ -979,55 +979,55 @@ msgstr ""
 msgid "Items Padding"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:143
+#: elementor/widgets/navigation-menu.php:145
 msgid "Items Style"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:151
+#: elementor/widgets/navigation-menu.php:153
 msgid "Menu Background Color Mobile"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:176
+#: elementor/widgets/navigation-menu.php:178
 msgid "Sub Menu Background Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:188
+#: elementor/widgets/navigation-menu.php:190
 msgid "Sub Menu Text Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:200
+#: elementor/widgets/navigation-menu.php:202
 msgid "Menu Mobile Border Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:214
+#: elementor/widgets/navigation-menu.php:216
 msgid "Featured button Style (if used)"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:222
+#: elementor/widgets/navigation-menu.php:224
 msgid "Featured Button Text Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:235
+#: elementor/widgets/navigation-menu.php:237
 msgid "Featured Button Background Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:249
+#: elementor/widgets/navigation-menu.php:251
 msgid "Close menu mobile button Style"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:257
+#: elementor/widgets/navigation-menu.php:259
 msgid "Close Menu Button Text Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:269
+#: elementor/widgets/navigation-menu.php:271
 msgid "Close Menu Button Background Color"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:310
+#: elementor/widgets/navigation-menu.php:312
 msgid "Hamburger Menu button Style (if used)"
 msgstr ""
 
-#: elementor/widgets/navigation-menu.php:318
+#: elementor/widgets/navigation-menu.php:320
 msgid "Hamburger Menu Color"
 msgstr ""
 
@@ -1151,43 +1151,43 @@ msgstr ""
 msgid "Post title"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:305
+#: elementor/widgets/posts-carousel.php:307
 msgid "Post content"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:336
+#: elementor/widgets/posts-carousel.php:340
 msgid "Categories content"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:367
+#: elementor/widgets/posts-carousel.php:373
 msgid "Meta content"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:398
+#: elementor/widgets/posts-carousel.php:406
 msgid "Post spacing"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:405
+#: elementor/widgets/posts-carousel.php:413
 msgid "Spacing"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:445
+#: elementor/widgets/posts-carousel.php:453
 msgid "Images Border Radius"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:492
+#: elementor/widgets/posts-carousel.php:500
 msgid "Text Alignment"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:599
+#: elementor/widgets/posts-carousel.php:607
 msgid "0 Comments"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:599
+#: elementor/widgets/posts-carousel.php:607
 msgid "1 Comment"
 msgstr ""
 
-#: elementor/widgets/posts-carousel.php:599
+#: elementor/widgets/posts-carousel.php:607
 msgid "% Comments"
 msgstr ""
 
@@ -1219,11 +1219,11 @@ msgstr ""
 msgid "Site Title Text Color"
 msgstr ""
 
-#: elementor/widgets/site-logo.php:131
+#: elementor/widgets/site-logo.php:133
 msgid "Site tagline style (if used)"
 msgstr ""
 
-#: elementor/widgets/site-logo.php:139
+#: elementor/widgets/site-logo.php:141
 msgid "Site Tagline Text Color"
 msgstr ""
 

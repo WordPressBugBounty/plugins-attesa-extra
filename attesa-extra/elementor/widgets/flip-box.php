@@ -8,7 +8,7 @@ use Elementor\Scheme_Color;
 use Elementor\Widget_Base;
 use Elementor\Group_Control_Typography;
 use Elementor\Group_Control_Background;
-use Elementor\Core\Schemes\Typography;
+use Elementor\Core\Kits\Documents\Tabs\Global_Typography;
 use Elementor\Icons_Manager;
 use Elementor\Controls_Stack;
 
@@ -372,7 +372,9 @@ class Attesa_Extra_Flip_Box extends Widget_Base {
 				'label' 		=> __( 'Title Typography', 'attesa-extra' ),
 				'name' 			=> 'section_flip_box_front_style_titletypo',
 				'selector' 		=> '{{WRAPPER}} .awp-flip-box-container .awp-flip-box-front-title',
-				'scheme' 		=> Typography::TYPOGRAPHY_1,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
 				'conditions' => [
 					'terms' => [
 						[
@@ -441,7 +443,9 @@ class Attesa_Extra_Flip_Box extends Widget_Base {
 				'label' 		=> __( 'Content Typography', 'attesa-extra' ),
 				'name' 			=> 'section_flip_box_front_style_contenttypo',
 				'selector' 		=> '{{WRAPPER}} .awp-flip-box-container .awp-flip-box-front-content',
-				'scheme' 		=> Typography::TYPOGRAPHY_1,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
 				'conditions' => [
 					'terms' => [
 						[
@@ -619,7 +623,9 @@ class Attesa_Extra_Flip_Box extends Widget_Base {
 				'label' 		=> __( 'Title Typography', 'attesa-extra' ),
 				'name' 			=> 'section_flip_box_back_style_titletypo',
 				'selector' 		=> '{{WRAPPER}} .awp-flip-box-container .awp-flip-box-back-title',
-				'scheme' 		=> Typography::TYPOGRAPHY_1,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
 				'conditions' => [
 					'terms' => [
 						[
@@ -688,7 +694,9 @@ class Attesa_Extra_Flip_Box extends Widget_Base {
 				'label' 		=> __( 'Content Typography', 'attesa-extra' ),
 				'name' 			=> 'section_flip_box_back_style_contenttypo',
 				'selector' 		=> '{{WRAPPER}} .awp-flip-box-container .awp-flip-box-back-content',
-				'scheme' 		=> Typography::TYPOGRAPHY_1,
+				'global'	=> [
+					'default' => Global_Typography::TYPOGRAPHY_PRIMARY,
+				],
 				'conditions' => [
 					'terms' => [
 						[
