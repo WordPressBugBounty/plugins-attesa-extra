@@ -3,8 +3,8 @@ Contributors: CrestaProject
 Donate link: https://attesawp.com
 Tags: attesa theme, attesawp, metabox, meta box, metaboxes, widgets, demo import, custom templates
 Requires at least: 4.6.5
-Tested up to: 6.8
-Stable tag: 1.4.5
+Tested up to: 6.9
+Stable tag: 1.4.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,14 @@ Licenses: GPLv3 https://github.com/kallookoo/wp-color-picker-alpha/blob/master/L
 Source: https://github.com/kallookoo/wp-color-picker-alpha
 
 == Changelog ==
+
+= Version 1.4.7 =
+* Fixed deprecation warning with Butterbean
+* Improved compatibility with PHP 8.4
+* Minor bug fixes
+
+= Version 1.4.6 =
+* Added compatibility with WordPress 6.9
 
 = Version 1.4.5 =
 * Added compatibility with WordPress 6.8

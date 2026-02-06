@@ -19,17 +19,17 @@ if ( ! class_exists( 'Attesa_Post_Metabox' ) ) {
 		private $custom_control;
 	
 		public function enqueue_scripts( $hook ) {
-			if ( $hook != 'edit.php' && $hook != 'post.php' && $hook != 'post-new.php' ) {
+			if ( $hook != 'post.php' && $hook != 'post-new.php' ) {
 				return;
 			}
 			
 			// Get global post
 			global $post;
 
-			// Return if post is not object
-			if ( ! is_object( $post ) ) {
-				return;
-			}
+			// Return if post is not object or the post type is not public
+			if ( ! is_object( $post ) || ! is_post_type_viewable( $post->post_type ) ) {
+		        return;
+		    }
 			
 			wp_enqueue_script( 'attesa-extra-register-controls-script', plugins_url('/butterbean/js/register-controls.js',__FILE__), array('butterbean'), ATTESA_EXTRA_PLUGIN_VERSION, true);
 			wp_enqueue_style( 'attesa-extra-metabox-style', plugins_url('css/attesa-extra-admin-css.css',__FILE__), array(), ATTESA_EXTRA_PLUGIN_VERSION);
