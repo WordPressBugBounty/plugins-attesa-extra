@@ -106,33 +106,31 @@ final class Attesa_Custom_Templates {
 			'id' => '',
 		), $atts, 'attesa-template' );
 
+		$post_id = absint( $atts['id'] );
+
+		if ( ! $post_id ) {
+	        return '';
+	    }
+
 		ob_start();
 		
-		if ( $atts[ 'id' ] && get_post_status($atts[ 'id' ]) == 'publish' && !post_password_required($atts[ 'id' ])) {
-			$elementor  = get_post_meta( $atts[ 'id' ], '_elementor_edit_mode', true );
+		if ( get_post_status( $post_id ) == 'publish' && ! post_password_required( $post_id ) ) {
+
+			$elementor = get_post_meta( $post_id, '_elementor_edit_mode', true );
 			if ( class_exists( 'Elementor\Plugin' ) && $elementor ) {
 
-				echo Elementor\Plugin::instance()->frontend->get_builder_content_for_display( $atts[ 'id' ] );
+				echo Elementor\Plugin::instance()->frontend->get_builder_content_for_display( $post_id );
 
-			} else if ( class_exists( 'FLBuilder' ) && ! empty( $atts[ 'id' ] ) ) {
+			} else if ( class_exists( 'FLBuilder' ) ) {
 
-				echo do_shortcode( '[fl_builder_insert_layout id="' . $atts[ 'id' ] . '"]' );
+				echo do_shortcode( '[fl_builder_insert_layout id="' . $post_id . '"]' );
 
 			} else {
 				
-				$content = $atts[ 'id' ];
-
-				if ( ! empty( $content ) ) {
-
-					$template = get_post( $content );
-
-					if ( $template && ! is_wp_error( $template ) ) {
-						$content = $template->post_content;
-					}
-
-				}
-
-				echo do_shortcode( $content );
+				$template = get_post( $post_id );
+	            if ( $template && ! is_wp_error( $template ) ) {
+	                echo do_shortcode( $template->post_content );
+	            }
 
 			}
 		}
